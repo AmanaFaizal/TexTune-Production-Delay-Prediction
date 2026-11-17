@@ -1,0 +1,801 @@
+order_id,planned_start_date,fabric_type,color_group,quantity_kg,priority,machine_group,planned_processing_hours,machine_utilization_pct,queue_length,previous_reprocess_count,days_until_delivery,delayed
+TT-PO-0001,2026-02-27,Cotton-Poly Blend,Dark,1500,Normal,Jet Dyeing,11.9,78,3,0,11,0
+TT-PO-0002,2026-01-14,Cotton-Poly Blend,Dark,1350,High,Jet Dyeing,12.9,65,4,0,14,1
+TT-PO-0003,2026-06-30,Viscose,Dark,1440,Normal,Soft Flow,12.2,86,6,1,12,1
+TT-PO-0004,2026-01-17,Polyester,Light,2010,Normal,Jet Dyeing,10.8,64,1,0,4,0
+TT-PO-0005,2026-04-28,Cotton,Dark,2290,Normal,Soft Flow,15.5,89,6,0,7,0
+TT-PO-0006,2026-06-03,Cotton,White,1520,Normal,Soft Flow,9.3,73,3,0,9,0
+TT-PO-0007,2026-02-14,Nylon,Dark,450,High,Winch,9.5,84,5,1,9,1
+TT-PO-0008,2026-01-02,Viscose,Medium,550,Normal,Soft Flow,7,80,5,0,14,0
+TT-PO-0009,2026-05-21,Nylon,Medium,2250,Normal,Jet Dyeing,15.1,69,3,0,10,0
+TT-PO-0010,2026-02-18,Cotton,Medium,1540,Normal,Jet Dyeing,9.5,79,4,0,12,0
+TT-PO-0011,2026-02-07,Polyester,Medium,970,High,Jigger,9.8,97,6,1,13,0
+TT-PO-0012,2026-04-12,Cotton,Dark,900,Normal,Soft Flow,11.9,61,2,0,2,1
+TT-PO-0013,2026-04-12,Cotton,White,2140,Normal,Jet Dyeing,12.3,56,2,2,9,0
+TT-PO-0014,2026-03-13,Cotton,Light,1050,Normal,Jet Dyeing,9.3,52,0,1,9,0
+TT-PO-0015,2026-01-09,Polyester,Light,1020,Normal,Soft Flow,8.8,73,1,0,12,0
+TT-PO-0016,2026-03-18,Viscose,Light,1110,Urgent,Soft Flow,10.3,81,2,0,4,0
+TT-PO-0017,2026-05-13,Viscose,Light,1090,Normal,Jigger,9,87,3,0,14,0
+TT-PO-0018,2026-06-29,Cotton,Light,1270,Normal,Jet Dyeing,9.1,94,3,0,6,0
+TT-PO-0019,2026-06-05,Cotton,Medium,1670,Normal,Jigger,12.7,48,0,0,14,0
+TT-PO-0020,2026-03-24,Cotton,Medium,2010,Urgent,Soft Flow,14,87,6,0,10,1
+TT-PO-0021,2026-03-31,Cotton,Medium,550,Normal,Jet Dyeing,5.7,63,2,0,8,0
+TT-PO-0022,2026-02-24,Cotton-Poly Blend,Light,2130,High,Jet Dyeing,11.5,61,2,2,3,1
+TT-PO-0023,2026-04-12,Polyester,White,2040,High,Jet Dyeing,11,77,5,2,4,1
+TT-PO-0024,2026-01-20,Viscose,Light,1300,Normal,Jet Dyeing,8.9,59,0,0,11,0
+TT-PO-0025,2026-01-31,Nylon,Medium,540,Normal,Soft Flow,9.8,85,4,1,14,1
+TT-PO-0026,2026-05-04,Cotton,Light,300,High,Winch,8.6,98,5,0,10,0
+TT-PO-0027,2026-03-21,Cotton,White,2390,High,Soft Flow,14.1,51,3,0,14,0
+TT-PO-0028,2026-06-03,Cotton-Poly Blend,Light,1080,Normal,Jigger,11.2,98,7,0,13,0
+TT-PO-0029,2026-04-24,Nylon,White,2190,Normal,Jet Dyeing,13.8,71,4,0,2,1
+TT-PO-0030,2026-05-30,Cotton,Dark,1720,High,Jet Dyeing,13.7,54,1,0,3,0
+TT-PO-0031,2026-04-24,Cotton,Dark,1900,Normal,Jet Dyeing,15.2,69,3,1,3,0
+TT-PO-0032,2026-05-16,Viscose,Medium,250,Normal,Jet Dyeing,4.5,90,3,1,9,0
+TT-PO-0033,2026-03-26,Viscose,Light,2400,Normal,Soft Flow,12.5,51,1,1,3,1
+TT-PO-0034,2026-06-11,Cotton-Poly Blend,White,2290,Normal,Soft Flow,14.5,85,5,0,10,0
+TT-PO-0035,2026-02-04,Viscose,Dark,430,Normal,Soft Flow,11.2,98,4,0,4,1
+TT-PO-0036,2026-03-06,Polyester,Dark,1500,Normal,Soft Flow,14,49,0,0,7,0
+TT-PO-0037,2026-01-13,Cotton,Dark,2280,Normal,Jet Dyeing,15.5,82,4,0,4,0
+TT-PO-0038,2026-05-19,Viscose,Dark,300,Normal,Jigger,9.5,83,5,0,6,0
+TT-PO-0039,2026-04-05,Cotton,White,860,Normal,Jet Dyeing,9.2,85,4,1,4,0
+TT-PO-0040,2026-04-04,Cotton-Poly Blend,White,1140,Normal,Winch,11.3,53,3,1,8,0
+TT-PO-0041,2026-01-19,Cotton,Dark,880,Normal,Jet Dyeing,10.7,87,3,0,11,0
+TT-PO-0042,2026-02-10,Cotton,Dark,2220,Normal,Jigger,15.9,77,3,0,10,0
+TT-PO-0043,2026-02-14,Polyester,Medium,300,Normal,Jigger,5.8,95,7,0,8,0
+TT-PO-0044,2026-05-16,Cotton,Dark,1220,Normal,Jet Dyeing,10.6,84,3,0,9,0
+TT-PO-0045,2026-01-11,Polyester,Medium,1390,Normal,Jet Dyeing,11.6,62,1,1,9,0
+TT-PO-0046,2026-05-27,Cotton-Poly Blend,Dark,1840,High,Jet Dyeing,13.7,61,1,0,13,0
+TT-PO-0047,2026-06-08,Polyester,Dark,990,High,Jigger,10,71,2,0,6,0
+TT-PO-0048,2026-03-03,Cotton-Poly Blend,Dark,2390,High,Jigger,15.8,85,2,0,12,0
+TT-PO-0049,2026-06-07,Cotton,Dark,200,Urgent,Jet Dyeing,7.3,58,0,0,7,0
+TT-PO-0050,2026-04-20,Cotton,Light,2340,High,Soft Flow,14.2,63,2,2,11,0
+TT-PO-0051,2026-05-30,Polyester,Dark,1580,Normal,Winch,12.6,58,2,0,8,0
+TT-PO-0052,2026-03-01,Nylon,Dark,330,High,Jigger,8.6,61,4,0,13,0
+TT-PO-0053,2026-05-16,Cotton,Dark,410,High,Soft Flow,10.3,54,0,0,9,0
+TT-PO-0054,2026-02-14,Viscose,Medium,2320,Normal,Soft Flow,12.6,49,0,0,5,0
+TT-PO-0055,2026-04-29,Cotton,Dark,740,Normal,Soft Flow,10.4,92,6,0,14,0
+TT-PO-0056,2026-06-19,Polyester,Dark,580,Normal,Soft Flow,11.4,60,4,0,3,0
+TT-PO-0057,2026-05-09,Cotton-Poly Blend,White,1320,High,Jet Dyeing,10.3,82,5,1,2,0
+TT-PO-0058,2026-06-09,Cotton,Medium,950,Normal,Jet Dyeing,8,98,6,0,4,0
+TT-PO-0059,2026-04-01,Viscose,Dark,1350,High,Jet Dyeing,13.2,58,2,0,7,0
+TT-PO-0060,2026-02-02,Cotton,Light,520,Normal,Jigger,8.7,81,4,1,11,0
+TT-PO-0061,2026-04-09,Viscose,Dark,2270,Normal,Jet Dyeing,14.8,58,4,0,7,0
+TT-PO-0062,2026-06-14,Cotton,Medium,2190,Normal,Jet Dyeing,11.9,52,0,0,10,0
+TT-PO-0063,2026-02-05,Polyester,Dark,1920,High,Winch,13.9,83,4,0,10,1
+TT-PO-0064,2026-05-12,Nylon,Light,800,High,Soft Flow,9.5,80,3,0,14,0
+TT-PO-0065,2026-01-12,Cotton,Dark,2090,Normal,Winch,13.8,86,5,0,3,0
+TT-PO-0066,2026-05-03,Nylon,Light,860,Normal,Jet Dyeing,11.4,73,4,0,7,0
+TT-PO-0067,2026-04-01,Polyester,Medium,2260,Normal,Soft Flow,13.2,54,2,2,14,1
+TT-PO-0068,2026-02-05,Nylon,White,720,Normal,Jet Dyeing,11.2,97,3,1,11,1
+TT-PO-0069,2026-06-30,Cotton-Poly Blend,Light,570,Normal,Jet Dyeing,7.7,92,5,0,4,0
+TT-PO-0070,2026-03-30,Polyester,Dark,730,High,Soft Flow,8.8,79,5,0,10,0
+TT-PO-0071,2026-03-01,Cotton,Dark,2260,Normal,Soft Flow,17.2,62,3,0,14,0
+TT-PO-0072,2026-03-31,Viscose,Light,950,High,Winch,9.3,87,5,0,11,1
+TT-PO-0073,2026-05-27,Cotton,Medium,1980,Normal,Jet Dyeing,11.6,,5,0,10,1
+TT-PO-0074,2026-04-24,Polyester,Light,1750,Normal,Jet Dyeing,12.9,49,1,0,3,0
+TT-PO-0075,2026-01-22,Polyester,Dark,1940,High,Jet Dyeing,15,54,0,0,11,0
+TT-PO-0076,2026-06-12,Cotton,Dark,2350,Normal,Winch,16,68,4,0,5,1
+TT-PO-0077,2026-02-21,Polyester,Medium,1540,Normal,Soft Flow,10.9,84,5,1,6,1
+TT-PO-0078,2026-01-31,Cotton-Poly Blend,Dark,1000,High,Jet Dyeing,10.4,77,4,0,14,0
+TT-PO-0079,2026-04-04,Viscose,Dark,470,Normal,Soft Flow,10.6,96,5,0,10,1
+TT-PO-0080,2026-06-14,Polyester,White,1260,Normal,Jet Dyeing,10,79,3,0,8,0
+TT-PO-0081,2026-05-16,Cotton,Medium,320,Normal,Jet Dyeing,8.5,98,6,2,7,1
+TT-PO-0082,2026-06-10,Polyester,Light,1160,Normal,Jet Dyeing,9.5,55,0,0,6,0
+TT-PO-0083,2026-01-27,Polyester,Light,1340,Normal,Soft Flow,10.3,64,4,0,9,0
+TT-PO-0084,2026-01-27,Cotton,Light,1940,Normal,Jet Dyeing,11.8,52,1,1,6,0
+TT-PO-0085,2026-02-05,Cotton,Light,1830,Normal,Jet Dyeing,10.1,91,6,1,7,1
+TT-PO-0086,2026-04-02,Cotton-Poly Blend,Dark,1150,High,Winch,13.3,72,4,0,3,0
+TT-PO-0087,2026-01-19,Cotton,Medium,2380,Normal,Jigger,12.2,56,2,1,3,0
+TT-PO-0088,2026-05-30,Cotton-Poly Blend,White,1150,Normal,Jet Dyeing,11.4,58,3,0,14,0
+TT-PO-0089,2026-05-04,Polyester,White,1300,High,Jet Dyeing,10.9,48,2,0,2,1
+TT-PO-0090,2026-06-25,Cotton,Medium,1580,Normal,Jigger,12,56,1,1,4,0
+TT-PO-0091,2026-03-12,Cotton-Poly Blend,Dark,1090,Normal,Jet Dyeing,13.5,89,4,0,13,0
+TT-PO-0092,2026-04-11,Viscose,Medium,2190,Urgent,Soft Flow,13.7,96,5,0,5,1
+TT-PO-0093,2026-05-22,Cotton,Light,1900,Normal,Soft Flow,13.6,95,6,0,2,1
+TT-PO-0094,2026-05-07,Polyester,Medium,750,High,Soft Flow,8.5,84,2,0,4,1
+TT-PO-0095,2026-04-15,Cotton,Light,1870,High,Jet Dyeing,11.3,52,0,0,8,0
+TT-PO-0096,2026-03-19,Cotton,White,1140,Normal,Soft Flow,8.3,76,3,0,7,0
+TT-PO-0097,2026-01-03,Cotton-Poly Blend,Medium,1360,Normal,Soft Flow,,83,5,0,13,0
+TT-PO-0098,2026-06-07,Cotton,Medium,1660,High,Jet Dyeing,11.3,77,4,0,10,0
+TT-PO-0099,2026-02-12,Cotton,Dark,1230,High,Jet Dyeing,10.5,95,4,0,7,1
+TT-PO-0100,2026-05-26,Polyester,White,1520,Normal,Jet Dyeing,11.7,48,1,0,6,0
+TT-PO-0101,2026-03-22,Cotton,Light,1830,Urgent,Soft Flow,12.5,77,5,1,7,1
+TT-PO-0102,2026-01-26,Cotton,White,2390,Normal,Jet Dyeing,14.5,97,6,0,13,0
+TT-PO-0103,2026-06-27,Cotton,Medium,650,Normal,Winch,6.8,93,3,1,7,0
+TT-PO-0104,2026-01-26,Cotton,Light,1160,High,Jet Dyeing,10,65,3,1,14,0
+TT-PO-0105,2026-06-17,Cotton,Dark,1160,Normal,Soft Flow,11.9,70,5,0,3,1
+TT-PO-0106,2026-04-07,Cotton,White,340,High,Soft Flow,7,57,0,2,6,0
+TT-PO-0107,2026-02-21,Cotton-Poly Blend,Dark,2270,Normal,Jet Dyeing,14.9,71,4,1,6,0
+TT-PO-0108,2026-05-15,Nylon,Medium,2130,Urgent,Jet Dyeing,13.4,90,6,2,12,0
+TT-PO-0109,2026-05-04,Cotton,Light,1640,Normal,Soft Flow,10.6,71,3,0,13,0
+TT-PO-0110,2026-02-14,Cotton,Dark,1630,Normal,Jigger,11.7,51,2,1,6,0
+TT-PO-0111,2026-02-16,Cotton,Dark,460,Normal,Soft Flow,7.4,65,2,0,12,0
+TT-PO-0112,2026-03-17,Cotton,Light,1680,Normal,Soft Flow,10.9,61,2,0,10,0
+TT-PO-0113,2026-01-27,Polyester,Dark,2130,High,Jigger,16.9,96,4,0,2,0
+TT-PO-0114,2026-04-23,Nylon,Dark,480,High,Jet Dyeing,11,56,0,3,12,0
+TT-PO-0115,2026-01-12,Cotton,Dark,800,Normal,Jigger,10.5,94,5,0,9,1
+TT-PO-0116,2026-02-20,Polyester,Light,900,Normal,Jet Dyeing,10.6,80,2,0,10,0
+TT-PO-0117,2026-03-07,Cotton,Medium,1880,Normal,Jet Dyeing,14,97,6,1,3,1
+TT-PO-0118,2026-04-29,Cotton-Poly Blend,Medium,1060,High,Soft Flow,7.6,57,1,1,13,0
+TT-PO-0119,2026-05-22,Cotton,Light,1030,High,Jet Dyeing,10.7,67,4,0,8,0
+TT-PO-0120,2026-02-19,Cotton,Light,1080,Normal,Jet Dyeing,8.5,70,4,2,6,0
+TT-PO-0121,2026-02-13,Cotton,Light,930,Urgent,Jet Dyeing,8,66,1,2,10,0
+TT-PO-0122,2026-04-19,Polyester,Medium,1060,Normal,Jet Dyeing,9.2,84,3,1,5,1
+TT-PO-0123,2026-05-20,Cotton,Dark,1890,High,Soft Flow,16.4,90,6,0,7,1
+TT-PO-0124,2026-01-19,Polyester,Medium,1080,Normal,Jigger,7.6,55,1,0,12,0
+TT-PO-0125,2026-04-10,Cotton,Medium,1980,Urgent,Jet Dyeing,12.9,61,3,0,5,1
+TT-PO-0126,2026-05-10,Cotton-Poly Blend,White,1680,Normal,Jet Dyeing,11.9,59,2,0,9,0
+TT-PO-0127,2026-06-08,Cotton-Poly Blend,Light,1400,Normal,Jet Dyeing,9.6,82,4,2,5,0
+TT-PO-0128,2026-05-03,Polyester,Light,440,Normal,Soft Flow,7.8,71,2,0,6,0
+TT-PO-0129,2026-03-26,Polyester,Medium,1850,Normal,Soft Flow,13.6,97,6,2,12,1
+TT-PO-0130,2026-01-21,Cotton,Dark,2240,High,Soft Flow,17.4,93,3,0,10,0
+TT-PO-0131,2026-01-17,Cotton-Poly Blend,Light,1650,Normal,Jet Dyeing,10.5,64,3,1,8,1
+TT-PO-0132,2026-02-11,Nylon,Dark,2330,Urgent,Winch,15.8,73,2,0,14,0
+TT-PO-0133,2026-06-17,Cotton-Poly Blend,Medium,1050,High,Jet Dyeing,10.3,55,2,1,8,0
+TT-PO-0134,2026-02-18,Cotton-Poly Blend,Medium,580,Urgent,Jet Dyeing,7.2,81,3,0,2,0
+TT-PO-0135,2026-03-17,Cotton-Poly Blend,Dark,370,Normal,Jigger,8.1,68,2,0,4,0
+TT-PO-0136,2026-05-14,Polyester,Dark,2320,Normal,Soft Flow,14.7,61,2,0,11,1
+TT-PO-0137,2026-02-14,Cotton,Medium,400,High,Soft Flow,6.6,73,1,0,5,0
+TT-PO-0138,2026-05-07,Viscose,Light,1110,Normal,Jigger,11.5,87,4,2,3,1
+TT-PO-0139,2026-01-20,Cotton-Poly Blend,Dark,2160,Urgent,Soft Flow,14.6,69,1,0,6,0
+TT-PO-0140,2026-03-02,Polyester,Medium,460,High,Soft Flow,5.4,80,5,0,10,0
+TT-PO-0141,2026-05-11,Cotton,Medium,1080,High,Jet Dyeing,7.6,64,4,0,5,0
+TT-PO-0142,2026-05-21,Cotton,Light,1420,High,Jigger,12.4,74,5,0,8,1
+TT-PO-0143,2026-04-04,Polyester,Dark,340,Normal,Jet Dyeing,7.2,97,5,1,11,1
+TT-PO-0144,2026-05-11,Cotton,White,1370,Normal,Winch,11.7,95,7,3,7,1
+TT-PO-0145,2026-01-20,Nylon,Medium,480,High,Winch,8.6,94,5,0,7,0
+TT-PO-0146,2026-05-26,Cotton,White,420,Normal,Soft Flow,6,,5,1,12,0
+TT-PO-0147,2026-02-10,Cotton-Poly Blend,Light,970,Normal,Jet Dyeing,7.2,83,2,0,11,0
+TT-PO-0148,2026-06-17,Cotton-Poly Blend,Dark,1140,Normal,Winch,10.3,89,5,0,11,0
+TT-PO-0149,2026-02-17,Cotton,Medium,1260,Normal,Soft Flow,8.6,61,4,1,6,1
+TT-PO-0150,2026-05-13,Cotton,Dark,220,Normal,Jigger,9.8,92,4,0,7,1
+TT-PO-0151,2026-02-09,Cotton-Poly Blend,White,1330,Normal,Jigger,8.9,91,3,0,3,1
+TT-PO-0152,2026-05-31,Cotton,White,2250,High,Soft Flow,11.8,53,1,3,12,0
+TT-PO-0153,2026-02-24,Viscose,Light,440,Normal,Jet Dyeing,5.6,93,6,0,6,1
+TT-PO-0154,2026-01-25,Nylon,Light,1240,Normal,Soft Flow,13.4,65,4,1,9,0
+TT-PO-0155,2026-02-04,Nylon,White,1850,Normal,Jigger,13.8,91,6,1,8,1
+TT-PO-0156,2026-02-23,Polyester,Dark,960,High,Soft Flow,11,84,2,1,5,1
+TT-PO-0157,2026-01-13,Cotton-Poly Blend,Medium,1460,High,Soft Flow,12.5,80,3,0,6,0
+TT-PO-0158,2026-03-15,Viscose,Dark,1690,High,Jet Dyeing,13.6,72,2,1,8,0
+TT-PO-0159,2026-03-01,Cotton,Dark,710,Normal,Jigger,10.4,70,3,0,5,0
+TT-PO-0160,2026-06-06,Cotton,Light,550,Normal,Winch,8.9,73,4,0,7,0
+TT-PO-0161,2026-06-05,Cotton,Dark,1640,Normal,Soft Flow,14.9,82,2,1,10,0
+TT-PO-0162,2026-02-15,Cotton-Poly Blend,Medium,1960,Normal,Jet Dyeing,11.7,62,3,0,13,0
+TT-PO-0163,2026-01-29,Viscose,Light,2320,Normal,Winch,15.2,65,3,0,4,0
+TT-PO-0164,2026-02-28,Polyester,White,370,Normal,Jet Dyeing,8.4,71,1,1,2,1
+TT-PO-0165,2026-03-28,Cotton,Medium,1320,Normal,Soft Flow,10,62,1,0,10,0
+TT-PO-0166,2026-06-10,Cotton,Medium,1890,Normal,Winch,13.1,90,4,0,2,1
+TT-PO-0167,2026-02-12,Nylon,Light,820,Normal,Jet Dyeing,9.2,52,1,0,3,0
+TT-PO-0168,2026-04-27,Cotton,Dark,2080,High,Jet Dyeing,16.4,93,5,0,3,1
+TT-PO-0169,2026-02-27,Cotton-Poly Blend,Medium,1490,Normal,Jigger,11.7,85,3,0,5,0
+TT-PO-0170,2026-04-15,Polyester,Dark,1270,High,Jet Dyeing,11.8,96,4,1,8,0
+TT-PO-0171,2026-05-31,Cotton-Poly Blend,Dark,270,Normal,Jet Dyeing,10,55,1,1,6,0
+TT-PO-0172,2026-01-10,Polyester,Medium,1630,Normal,Winch,10.4,74,4,0,11,1
+TT-PO-0173,2026-06-08,Cotton,Light,1750,High,Soft Flow,11.1,91,6,0,10,1
+TT-PO-0174,2026-03-23,Cotton-Poly Blend,Light,1610,Urgent,Jet Dyeing,12.6,70,3,0,11,1
+TT-PO-0175,2026-06-04,Cotton,Medium,2270,Urgent,Soft Flow,14.2,97,7,0,11,0
+TT-PO-0176,2026-02-17,Cotton,Light,740,Normal,Jigger,8.1,58,3,0,3,0
+TT-PO-0177,2026-06-20,Cotton,Light,2210,High,Winch,11.8,85,5,1,7,0
+TT-PO-0178,2026-04-25,Polyester,Medium,730,Normal,Jet Dyeing,9.4,54,1,0,14,0
+TT-PO-0179,2026-04-30,Nylon,Dark,1780,Normal,Jigger,16.6,77,4,1,4,0
+TT-PO-0180,2026-01-21,Cotton-Poly Blend,Medium,910,Urgent,Jet Dyeing,10.5,56,3,0,7,0
+TT-PO-0181,2026-03-24,Cotton,Medium,2090,Normal,Soft Flow,12.8,,6,0,5,0
+TT-PO-0182,2026-02-11,Cotton-Poly Blend,Dark,1420,Normal,Jigger,11.3,76,3,0,10,0
+TT-PO-0183,2026-04-13,Cotton,Dark,750,Normal,Jet Dyeing,8.5,61,0,0,3,0
+TT-PO-0184,2026-01-29,Cotton-Poly Blend,Light,1440,Normal,Winch,10.9,58,0,2,7,0
+TT-PO-0185,2026-04-11,Viscose,Light,2020,Normal,Jet Dyeing,12.7,60,2,2,7,0
+TT-PO-0186,2026-04-24,Cotton-Poly Blend,Medium,240,Normal,Jet Dyeing,8.3,58,1,1,12,0
+TT-PO-0187,2026-01-18,Polyester,Light,1320,Normal,Soft Flow,10.7,51,2,1,5,0
+TT-PO-0188,2026-06-19,Viscose,Medium,1060,High,Jet Dyeing,9,51,2,0,4,0
+TT-PO-0189,2026-04-16,Cotton,Medium,1870,Normal,Soft Flow,11,59,2,0,11,0
+TT-PO-0190,2026-02-04,Cotton-Poly Blend,Dark,950,Normal,Soft Flow,9.2,51,0,0,3,0
+TT-PO-0191,2026-02-27,Cotton-Poly Blend,Light,620,Normal,Jigger,8.6,62,2,0,11,0
+TT-PO-0192,2026-06-27,Polyester,Medium,1540,High,Jigger,10.5,58,1,2,12,0
+TT-PO-0193,2026-06-08,Cotton-Poly Blend,Light,1900,Normal,Soft Flow,12.4,95,5,0,8,1
+TT-PO-0194,2026-03-03,Polyester,Dark,2070,Normal,Soft Flow,,77,3,0,10,0
+TT-PO-0195,2026-06-14,Cotton-Poly Blend,Dark,960,Normal,Jet Dyeing,11,56,1,0,8,0
+TT-PO-0196,2026-05-22,Polyester,Medium,520,Normal,Soft Flow,9.4,71,5,0,7,0
+TT-PO-0197,2026-05-01,Viscose,Dark,480,Normal,Soft Flow,9.2,94,6,0,8,0
+TT-PO-0198,2026-03-25,Cotton,Dark,1990,Normal,Soft Flow,16.1,87,3,0,6,0
+TT-PO-0199,2026-05-01,Polyester,Dark,880,High,Soft Flow,11.7,79,3,0,6,0
+TT-PO-0200,2026-02-22,Cotton-Poly Blend,Light,1870,Normal,Soft Flow,10.7,67,1,0,6,0
+TT-PO-0201,2026-03-25,Polyester,Dark,1490,Normal,Soft Flow,14.2,65,3,0,4,0
+TT-PO-0202,2026-03-04,Cotton,Light,980,Normal,Soft Flow,8.3,65,1,0,5,0
+TT-PO-0203,2026-04-18,Cotton-Poly Blend,Medium,1960,High,Soft Flow,11.4,70,2,2,5,1
+TT-PO-0204,2026-04-21,Polyester,Light,910,Normal,Winch,8.1,60,3,1,10,0
+TT-PO-0205,2026-04-27,Cotton,Light,1440,Normal,Jet Dyeing,10.9,65,1,0,4,0
+TT-PO-0206,2026-06-14,Cotton,Medium,240,Urgent,Jet Dyeing,8.3,98,5,0,14,0
+TT-PO-0207,2026-06-25,Polyester,Dark,2370,High,Jet Dyeing,17.9,69,3,0,2,1
+TT-PO-0208,2026-01-10,Cotton,Dark,630,Urgent,Soft Flow,10,48,0,2,10,0
+TT-PO-0209,2026-02-10,Cotton,Medium,1720,Normal,Jet Dyeing,11.2,62,3,0,14,0
+TT-PO-0210,2026-04-03,Cotton,Medium,770,Normal,Jet Dyeing,7.1,58,3,2,13,0
+TT-PO-0211,2026-05-24,Polyester,White,2070,High,Jigger,,75,2,0,5,0
+TT-PO-0212,2026-05-06,Polyester,Medium,1740,High,Jigger,11.1,89,5,0,13,0
+TT-PO-0213,2026-06-29,Cotton-Poly Blend,White,1260,Normal,Jet Dyeing,8.5,94,6,0,11,0
+TT-PO-0214,2026-01-15,Cotton-Poly Blend,Light,960,Normal,Jet Dyeing,10.8,68,1,0,12,0
+TT-PO-0215,2026-04-25,Viscose,Dark,690,Normal,Jet Dyeing,10.3,86,4,0,3,1
+TT-PO-0216,2026-06-25,Cotton,White,1400,Normal,Jet Dyeing,9.3,75,3,0,7,0
+TT-PO-0217,2026-03-25,Cotton-Poly Blend,Light,970,Normal,Jet Dyeing,7.9,79,4,0,2,1
+TT-PO-0218,2026-06-02,Cotton,White,1360,Urgent,Jigger,10.1,91,6,0,5,0
+TT-PO-0219,2026-05-29,Cotton-Poly Blend,Dark,690,Normal,Jigger,9.9,,1,0,4,0
+TT-PO-0220,2026-01-25,Cotton,Dark,470,High,Jet Dyeing,11.2,89,6,0,12,0
+TT-PO-0221,2026-03-01,Cotton-Poly Blend,Medium,570,Normal,Winch,7.3,97,5,0,13,1
+TT-PO-0222,2026-03-21,Cotton,Light,940,Normal,Jet Dyeing,9.2,62,4,0,10,0
+TT-PO-0223,2026-03-08,Cotton,Dark,300,Normal,Jet Dyeing,10.5,96,3,0,7,1
+TT-PO-0224,2026-04-13,Cotton,Medium,1710,High,Soft Flow,11.5,68,1,1,12,0
+TT-PO-0225,2026-03-27,Cotton,Dark,220,Urgent,Jet Dyeing,7.6,89,5,0,11,1
+TT-PO-0226,2026-04-23,Cotton,Medium,1160,Normal,Soft Flow,11,75,5,0,7,0
+TT-PO-0227,2026-02-09,Polyester,Dark,890,Normal,Winch,10.5,55,0,0,5,0
+TT-PO-0228,2026-01-23,Cotton,Light,2020,Urgent,Soft Flow,10.8,80,3,0,3,1
+TT-PO-0229,2026-04-09,Polyester,Dark,2220,Urgent,Jet Dyeing,17.2,59,3,1,9,0
+TT-PO-0230,2026-06-15,Cotton,White,1130,Normal,Soft Flow,7.5,50,2,1,9,0
+TT-PO-0231,2026-04-13,Cotton,Medium,1120,Normal,Jet Dyeing,10.7,49,0,3,4,0
+TT-PO-0232,2026-02-03,Cotton,Medium,240,Normal,Jigger,7.6,82,5,0,6,0
+TT-PO-0233,2026-05-20,Polyester,White,1690,Normal,Soft Flow,11.8,98,3,0,11,1
+TT-PO-0234,2026-06-04,Viscose,Light,1120,Normal,Soft Flow,10.2,98,6,0,11,0
+TT-PO-0235,2026-03-19,Polyester,White,1550,Normal,Jet Dyeing,9.2,83,4,1,9,0
+TT-PO-0236,2026-01-08,Cotton,White,2360,Normal,Jet Dyeing,12.9,80,2,0,11,0
+TT-PO-0237,2026-04-07,Polyester,White,460,Normal,Soft Flow,5.2,92,6,0,4,1
+TT-PO-0238,2026-05-15,Polyester,Light,1110,Normal,Jigger,8.6,51,0,3,13,0
+TT-PO-0239,2026-05-10,Viscose,Dark,1780,Normal,Jet Dyeing,13.9,62,4,0,10,0
+TT-PO-0240,2026-05-06,Cotton,Medium,2370,Normal,Jet Dyeing,14.9,78,3,1,2,1
+TT-PO-0241,2026-05-24,Cotton,Dark,900,Normal,Winch,12.7,68,4,0,6,0
+TT-PO-0242,2026-01-07,Cotton,Light,1740,Normal,Soft Flow,10.3,83,4,0,4,1
+TT-PO-0243,2026-03-21,Cotton,Medium,1850,High,Jet Dyeing,10.6,85,5,0,14,0
+TT-PO-0244,2026-03-05,Viscose,White,1680,High,Jigger,10.4,68,3,0,7,0
+TT-PO-0245,2026-03-24,Cotton,Medium,1510,High,Soft Flow,11.6,56,3,0,2,0
+TT-PO-0246,2026-05-05,Polyester,Light,1970,High,Jet Dyeing,12.1,86,4,0,6,0
+TT-PO-0247,2026-06-04,Cotton,Dark,2000,Normal,Soft Flow,15.7,88,4,1,9,1
+TT-PO-0248,2026-01-13,Nylon,Dark,2030,Normal,Jet Dyeing,16.5,85,4,0,9,1
+TT-PO-0249,2026-02-11,Polyester,Dark,1220,High,Jet Dyeing,13.4,82,4,0,4,1
+TT-PO-0250,2026-02-16,Cotton,Light,1960,Normal,Jet Dyeing,12.7,66,3,1,10,0
+TT-PO-0251,2026-04-16,Cotton-Poly Blend,White,380,High,Jet Dyeing,6.5,59,2,0,3,0
+TT-PO-0252,2026-03-06,Polyester,Light,440,Normal,Jet Dyeing,6.8,77,2,0,14,0
+TT-PO-0253,2026-04-17,Polyester,Medium,1930,High,Jet Dyeing,12.8,78,5,0,8,0
+TT-PO-0254,2026-03-27,Cotton,Medium,2210,Normal,Jet Dyeing,11.4,52,2,0,2,0
+TT-PO-0255,2026-01-27,Cotton-Poly Blend,Light,1740,Normal,Jet Dyeing,12.9,52,3,0,12,1
+TT-PO-0256,2026-05-20,Nylon,Dark,2040,Urgent,Soft Flow,14.7,60,2,0,10,0
+TT-PO-0257,2026-06-09,Cotton,Medium,1730,Normal,Jet Dyeing,11.8,73,5,1,3,1
+TT-PO-0258,2026-04-12,Viscose,Medium,1930,Normal,Jet Dyeing,14.4,92,6,0,10,0
+TT-PO-0259,2026-03-04,Viscose,Medium,2120,Normal,Soft Flow,13.9,85,5,0,7,1
+TT-PO-0260,2026-05-07,Cotton-Poly Blend,Dark,650,Normal,Jigger,10.1,83,3,0,4,0
+TT-PO-0261,2026-05-09,Cotton-Poly Blend,Dark,570,Normal,Jet Dyeing,8.5,83,4,0,10,0
+TT-PO-0262,2026-04-20,Polyester,Light,1990,Normal,Winch,12.8,67,4,0,8,0
+TT-PO-0263,2026-03-26,Cotton,Medium,1590,High,Jet Dyeing,12.4,87,3,0,2,0
+TT-PO-0264,2026-06-18,Cotton-Poly Blend,White,1760,High,Jigger,12.9,79,5,0,5,0
+TT-PO-0265,2026-01-17,Cotton-Poly Blend,Medium,890,Normal,Jigger,8.7,93,3,0,10,0
+TT-PO-0266,2026-05-03,Nylon,Medium,1070,Normal,Winch,11,70,3,0,7,0
+TT-PO-0267,2026-02-15,Cotton-Poly Blend,Light,2230,Urgent,Jet Dyeing,11.6,48,2,2,4,0
+TT-PO-0268,2026-05-10,Polyester,Dark,1060,Normal,Soft Flow,10.9,81,3,0,13,0
+TT-PO-0269,2026-01-14,Polyester,Medium,1650,High,Soft Flow,12.5,63,4,2,2,1
+TT-PO-0270,2026-04-02,Nylon,Medium,390,Normal,Jet Dyeing,6.5,61,2,1,3,0
+TT-PO-0271,2026-01-13,Cotton,Light,2220,Urgent,Jet Dyeing,12.8,69,4,0,3,0
+TT-PO-0272,2026-03-06,Nylon,Medium,1030,Normal,Soft Flow,11.3,75,2,0,2,0
+TT-PO-0273,2026-05-17,Polyester,Medium,320,Normal,Soft Flow,6.6,49,3,0,4,1
+TT-PO-0274,2026-01-04,Cotton-Poly Blend,Dark,2250,Normal,Soft Flow,14.3,49,1,0,10,0
+TT-PO-0275,2026-05-26,Viscose,Dark,2250,Normal,Soft Flow,15,71,4,1,6,1
+TT-PO-0276,2026-04-19,Cotton,Light,2020,Normal,Jigger,11.9,59,2,0,6,0
+TT-PO-0277,2026-06-20,Cotton-Poly Blend,Medium,360,Urgent,Jet Dyeing,8.5,67,3,1,5,0
+TT-PO-0278,2026-06-12,Polyester,Light,1100,High,Soft Flow,9.3,59,2,0,2,0
+TT-PO-0279,2026-02-25,Cotton,Light,610,Normal,Winch,7.9,62,2,0,7,0
+TT-PO-0280,2026-03-03,Viscose,Dark,350,High,Winch,7.8,63,4,0,13,0
+TT-PO-0281,2026-06-04,Polyester,Light,2020,High,Soft Flow,12.1,82,4,1,10,1
+TT-PO-0282,2026-01-05,Cotton,Medium,2340,Normal,Winch,15.3,58,3,1,4,1
+TT-PO-0283,2026-04-02,Viscose,Medium,860,Normal,Soft Flow,7.1,86,4,3,7,0
+TT-PO-0284,2026-03-10,Cotton,Dark,2100,Urgent,Soft Flow,15.9,52,3,0,3,0
+TT-PO-0285,2026-04-26,Viscose,Dark,1730,High,Soft Flow,13.6,77,3,0,4,1
+TT-PO-0286,2026-04-11,Cotton,Light,2140,High,Jigger,13.8,59,3,0,12,0
+TT-PO-0287,2026-03-23,Cotton-Poly Blend,Medium,860,Normal,Jet Dyeing,7.7,59,3,0,3,0
+TT-PO-0288,2026-02-23,Cotton,Medium,1740,High,Jet Dyeing,12.3,60,1,0,4,0
+TT-PO-0289,2026-04-16,Cotton-Poly Blend,Light,1300,Normal,Soft Flow,11.2,54,1,0,10,0
+TT-PO-0290,2026-05-27,Cotton-Poly Blend,Medium,2230,Normal,Jet Dyeing,15.4,62,2,0,10,0
+TT-PO-0291,2026-06-19,Cotton,Dark,1360,Normal,Jigger,,75,4,0,10,0
+TT-PO-0292,2026-05-02,Cotton-Poly Blend,Light,2100,High,Soft Flow,14.9,,5,0,11,1
+TT-PO-0293,2026-02-16,Polyester,Light,2080,Normal,Jet Dyeing,11.6,51,0,0,5,1
+TT-PO-0294,2026-03-09,Polyester,Dark,750,Normal,Jigger,11.4,82,4,0,6,0
+TT-PO-0295,2026-04-02,Nylon,Medium,1830,Normal,Soft Flow,15.2,82,4,0,10,0
+TT-PO-0296,2026-02-03,Cotton-Poly Blend,Light,1450,Normal,Soft Flow,8.7,91,4,0,9,0
+TT-PO-0297,2026-01-09,Viscose,Light,2130,High,Jet Dyeing,13.9,86,3,1,4,1
+TT-PO-0298,2026-01-15,Cotton,Medium,960,Normal,Jet Dyeing,8.3,80,4,0,12,0
+TT-PO-0299,2026-06-07,Cotton,Medium,600,High,Soft Flow,6.3,51,0,0,7,0
+TT-PO-0300,2026-02-28,Cotton,Light,860,Urgent,Soft Flow,8,63,1,0,11,0
+TT-PO-0301,2026-05-27,Polyester,Medium,1510,Urgent,Jet Dyeing,12,59,1,0,4,0
+TT-PO-0302,2026-05-06,Polyester,Medium,2230,Normal,Jet Dyeing,12.1,92,5,0,13,0
+TT-PO-0303,2026-01-28,Polyester,White,1570,Normal,Jet Dyeing,9.4,76,5,0,10,1
+TT-PO-0304,2026-05-23,Cotton,Light,1060,Normal,Jet Dyeing,8.7,86,5,0,8,1
+TT-PO-0305,2026-03-29,Cotton,Light,1410,High,Soft Flow,11.7,50,1,0,8,0
+TT-PO-0306,2026-03-26,Polyester,Dark,520,Normal,Winch,9.4,78,2,3,14,0
+TT-PO-0307,2026-03-28,Cotton,Light,1130,Normal,Soft Flow,10.3,54,3,0,9,0
+TT-PO-0308,2026-05-21,Nylon,Medium,620,Normal,Soft Flow,8.3,52,1,3,4,0
+TT-PO-0309,2026-01-09,Polyester,Medium,1180,Normal,Jet Dyeing,8.1,84,5,0,12,1
+TT-PO-0310,2026-01-02,Viscose,Light,1830,Normal,Soft Flow,11,78,2,2,14,0
+TT-PO-0311,2026-05-11,Viscose,Light,770,Urgent,Winch,10.1,73,4,0,11,0
+TT-PO-0312,2026-05-14,Cotton-Poly Blend,Dark,1590,Normal,Soft Flow,11.8,74,3,0,14,0
+TT-PO-0313,2026-01-15,Cotton,Medium,2370,Normal,Winch,13.5,63,3,0,14,0
+TT-PO-0314,2026-01-07,Polyester,White,1330,High,Soft Flow,8.8,65,3,0,10,0
+TT-PO-0315,2026-04-18,Viscose,Medium,380,Normal,Jet Dyeing,6.6,87,3,0,2,0
+TT-PO-0316,2026-02-24,Cotton-Poly Blend,Dark,2020,Normal,Jet Dyeing,16.3,53,2,0,7,0
+TT-PO-0317,2026-05-23,Cotton-Poly Blend,Dark,510,Urgent,Jigger,9.5,55,2,0,10,0
+TT-PO-0318,2026-06-17,Cotton-Poly Blend,Dark,1620,Normal,Jet Dyeing,13.2,49,1,1,7,1
+TT-PO-0319,2026-02-11,Polyester,Dark,820,Normal,Soft Flow,12.3,91,5,0,4,1
+TT-PO-0320,2026-03-20,Cotton-Poly Blend,Dark,470,High,Jet Dyeing,9.3,57,3,1,7,0
+TT-PO-0321,2026-03-03,Cotton-Poly Blend,Light,1350,Normal,Winch,10.5,91,6,2,12,1
+TT-PO-0322,2026-02-11,Cotton,Light,1750,High,Jet Dyeing,12.6,65,3,1,14,0
+TT-PO-0323,2026-01-07,Cotton-Poly Blend,Light,930,Normal,Jet Dyeing,10.7,63,3,1,11,0
+TT-PO-0324,2026-01-11,Cotton,White,1950,High,Soft Flow,13.2,61,3,0,4,0
+TT-PO-0325,2026-05-25,Cotton-Poly Blend,Light,1390,High,Jet Dyeing,12,63,4,1,8,0
+TT-PO-0326,2026-03-29,Cotton-Poly Blend,Dark,400,Normal,Jet Dyeing,10.9,51,0,0,8,0
+TT-PO-0327,2026-03-29,Cotton-Poly Blend,Light,840,Normal,Jet Dyeing,7.7,95,4,2,13,0
+TT-PO-0328,2026-05-08,Viscose,Light,310,Normal,Jigger,7.3,88,4,0,4,0
+TT-PO-0329,2026-01-04,Viscose,Dark,1500,Normal,Soft Flow,14.3,89,3,1,13,0
+TT-PO-0330,2026-01-10,Cotton-Poly Blend,Light,1640,Normal,Soft Flow,12.2,50,1,0,8,0
+TT-PO-0331,2026-06-29,Polyester,Dark,2160,High,Winch,15.8,60,0,0,4,0
+TT-PO-0332,2026-06-11,Cotton-Poly Blend,Light,1060,Normal,Jet Dyeing,9,81,4,0,6,1
+TT-PO-0333,2026-02-21,Polyester,Light,1290,Normal,Jet Dyeing,11,49,2,0,3,0
+TT-PO-0334,2026-05-18,Cotton,Medium,930,Normal,Jet Dyeing,6.9,93,5,0,4,1
+TT-PO-0335,2026-02-13,Polyester,Light,510,Normal,Jet Dyeing,7.6,64,1,0,7,0
+TT-PO-0336,2026-02-27,Cotton,Light,660,Normal,Winch,8.2,71,4,0,13,0
+TT-PO-0337,2026-04-22,Polyester,Medium,2020,Normal,Jigger,13.5,67,2,0,10,0
+TT-PO-0338,2026-04-18,Polyester,Medium,1050,Urgent,Jet Dyeing,7.7,88,6,0,12,0
+TT-PO-0339,2026-03-23,Cotton,Light,1910,Normal,Jet Dyeing,11.7,64,3,2,8,1
+TT-PO-0340,2026-01-08,Polyester,Medium,800,Normal,Winch,8.9,70,5,1,11,0
+TT-PO-0341,2026-06-13,Cotton,Medium,2100,Normal,Winch,13.8,75,5,0,12,0
+TT-PO-0342,2026-05-20,Cotton-Poly Blend,Medium,1150,Normal,Jet Dyeing,10.8,91,5,1,6,1
+TT-PO-0343,2026-03-25,Cotton,White,1800,High,Jigger,13.2,51,2,1,10,0
+TT-PO-0344,2026-02-24,Cotton,Light,1440,Normal,Jigger,9.5,73,2,0,11,0
+TT-PO-0345,2026-03-18,Polyester,Medium,1040,High,Jet Dyeing,7.7,89,3,0,10,1
+TT-PO-0346,2026-06-04,Viscose,Dark,690,Normal,Jet Dyeing,9.8,57,1,0,5,0
+TT-PO-0347,2026-05-14,Cotton-Poly Blend,Light,1690,Normal,Jet Dyeing,10.8,82,6,0,4,0
+TT-PO-0348,2026-04-14,Polyester,Dark,1120,Normal,Jet Dyeing,11.8,74,2,0,11,0
+TT-PO-0349,2026-03-02,Viscose,Light,1330,High,Jigger,9.1,64,4,0,12,0
+TT-PO-0350,2026-05-17,Nylon,Medium,590,Normal,Soft Flow,10,81,2,0,14,0
+TT-PO-0351,2026-04-14,Cotton,Light,940,Normal,Soft Flow,9.3,60,1,1,11,0
+TT-PO-0352,2026-01-10,Viscose,Light,540,Normal,Jet Dyeing,6.7,61,3,0,4,0
+TT-PO-0353,2026-01-30,Polyester,Light,730,High,Jet Dyeing,8.4,92,3,0,5,1
+TT-PO-0354,2026-06-10,Cotton,Light,2020,High,Jigger,14.2,82,3,1,3,0
+TT-PO-0355,2026-01-14,Viscose,Light,2050,High,Winch,12.8,96,4,0,8,1
+TT-PO-0356,2026-05-03,Cotton-Poly Blend,Dark,1230,Normal,Soft Flow,13.7,52,3,0,2,0
+TT-PO-0357,2026-03-27,Polyester,Medium,1240,Normal,Winch,11.1,83,5,0,14,0
+TT-PO-0358,2026-05-03,Cotton,Medium,1930,High,Soft Flow,12.3,95,3,1,10,0
+TT-PO-0359,2026-05-30,Cotton,Light,1570,High,Soft Flow,9.4,58,0,0,12,0
+TT-PO-0360,2026-02-25,Cotton,Medium,950,High,Soft Flow,7.2,87,3,2,10,0
+TT-PO-0361,2026-01-28,Polyester,Medium,1530,Normal,Jet Dyeing,9.4,89,6,0,10,0
+TT-PO-0362,2026-02-16,Viscose,White,240,Normal,Jet Dyeing,6.6,,1,0,13,0
+TT-PO-0363,2026-02-06,Nylon,Light,1360,High,Soft Flow,12.7,73,4,0,10,0
+TT-PO-0364,2026-05-21,Cotton,Dark,870,High,Soft Flow,9.1,91,3,0,10,0
+TT-PO-0365,2026-01-16,Cotton-Poly Blend,Dark,320,High,Jet Dyeing,7.8,,3,0,9,1
+TT-PO-0366,2026-01-20,Nylon,Light,970,Normal,Jigger,10.6,49,2,0,13,0
+TT-PO-0367,2026-05-13,Viscose,Light,330,Normal,Soft Flow,5.8,60,2,0,14,0
+TT-PO-0368,2026-06-05,Polyester,White,730,Normal,Winch,9.1,59,1,0,11,0
+TT-PO-0369,2026-01-10,Cotton,Light,860,Normal,Jigger,7.4,97,4,0,4,1
+TT-PO-0370,2026-05-28,Cotton-Poly Blend,Medium,1290,High,Jigger,11.8,92,3,0,14,0
+TT-PO-0371,2026-01-18,Cotton,Dark,280,Normal,Jet Dyeing,10.4,86,6,0,4,0
+TT-PO-0372,2026-03-14,Viscose,Dark,190,High,Jet Dyeing,9.8,60,4,0,10,0
+TT-PO-0373,2026-01-27,Viscose,Light,460,High,Soft Flow,7.4,72,4,0,2,0
+TT-PO-0374,2026-03-14,Cotton-Poly Blend,White,660,Normal,Soft Flow,6.8,56,2,2,12,0
+TT-PO-0375,2026-04-05,Cotton-Poly Blend,Dark,260,Normal,Jigger,10.6,53,3,1,10,0
+TT-PO-0376,2026-01-26,Cotton-Poly Blend,Medium,1590,Normal,Soft Flow,11.7,59,2,0,6,0
+TT-PO-0377,2026-01-31,Cotton-Poly Blend,Medium,990,Normal,Jigger,8.5,97,6,0,14,0
+TT-PO-0378,2026-05-18,Cotton-Poly Blend,Medium,700,Normal,Jet Dyeing,9.9,77,4,0,14,0
+TT-PO-0379,2026-05-12,Polyester,White,920,Normal,Jet Dyeing,6.8,75,4,0,10,1
+TT-PO-0380,2026-06-22,Cotton-Poly Blend,Medium,230,High,Jet Dyeing,7.1,63,2,1,5,0
+TT-PO-0381,2026-04-24,Cotton,Medium,910,High,Soft Flow,10,92,6,0,7,0
+TT-PO-0382,2026-02-02,Cotton,Medium,300,Normal,Soft Flow,6.3,92,4,0,8,0
+TT-PO-0383,2026-05-06,Cotton-Poly Blend,Light,1120,Normal,Jet Dyeing,10.6,80,5,0,14,1
+TT-PO-0384,2026-04-19,Viscose,Medium,310,Normal,Winch,7.3,95,7,0,2,0
+TT-PO-0385,2026-03-04,Cotton,Dark,1360,Normal,Winch,12.6,67,2,0,3,0
+TT-PO-0386,2026-01-09,Cotton-Poly Blend,Medium,1990,Normal,Jet Dyeing,14,88,5,0,8,0
+TT-PO-0387,2026-06-07,Cotton-Poly Blend,Dark,440,Normal,Jigger,9.3,71,4,0,8,1
+TT-PO-0388,2026-02-05,Cotton-Poly Blend,Medium,1990,Urgent,Soft Flow,,72,4,0,13,0
+TT-PO-0389,2026-06-16,Polyester,Medium,1340,Normal,Jet Dyeing,10.8,86,5,2,14,0
+TT-PO-0390,2026-01-24,Cotton,Medium,2030,High,Soft Flow,13.5,88,4,0,11,0
+TT-PO-0391,2026-04-21,Polyester,Light,1980,Normal,Soft Flow,11.8,70,2,0,12,0
+TT-PO-0392,2026-06-12,Polyester,Light,820,Normal,Jet Dyeing,9,94,5,1,8,1
+TT-PO-0393,2026-03-08,Cotton,Light,2280,Normal,Soft Flow,13,49,0,0,8,0
+TT-PO-0394,2026-01-16,Cotton,Dark,1290,Urgent,Winch,10.6,66,3,0,11,0
+TT-PO-0395,2026-06-28,Cotton-Poly Blend,Medium,1540,High,Soft Flow,9.2,71,3,0,9,0
+TT-PO-0396,2026-04-27,Cotton-Poly Blend,Dark,1610,Normal,Soft Flow,12.1,56,2,0,3,0
+TT-PO-0397,2026-05-25,Cotton,White,480,High,Jet Dyeing,7.9,79,5,1,3,1
+TT-PO-0398,2026-01-19,Polyester,Light,1450,Normal,Jet Dyeing,9.2,83,5,0,8,0
+TT-PO-0399,2026-02-01,Cotton-Poly Blend,Dark,660,Normal,Jet Dyeing,8.2,84,2,0,13,0
+TT-PO-0400,2026-06-10,Viscose,Dark,380,High,Soft Flow,10.7,96,6,1,7,1
+TT-PO-0401,2026-06-23,Cotton,Medium,1970,Normal,Jet Dyeing,11.7,87,5,0,2,1
+TT-PO-0402,2026-05-17,Cotton-Poly Blend,White,540,Normal,Soft Flow,7.3,54,1,0,2,0
+TT-PO-0403,2026-02-03,Cotton-Poly Blend,Medium,1980,Urgent,Soft Flow,14.3,61,0,0,7,0
+TT-PO-0404,2026-05-02,Cotton,Light,1890,Normal,Jigger,11.1,51,1,0,14,0
+TT-PO-0405,2026-06-19,Cotton,Light,1680,Normal,Jet Dyeing,13,71,3,1,10,0
+TT-PO-0406,2026-04-11,Cotton-Poly Blend,Dark,2150,Normal,Soft Flow,16,96,4,0,3,1
+TT-PO-0407,2026-04-11,Nylon,Dark,1080,Normal,Soft Flow,12,48,0,0,7,0
+TT-PO-0408,2026-03-23,Cotton-Poly Blend,Dark,880,Normal,Jet Dyeing,11.2,72,1,2,8,1
+TT-PO-0409,2026-03-08,Viscose,Dark,490,Normal,Jigger,9.2,49,2,0,2,0
+TT-PO-0410,2026-05-15,Cotton-Poly Blend,Medium,2370,High,Winch,13.6,89,5,1,13,1
+TT-PO-0411,2026-02-13,Viscose,White,890,High,Soft Flow,10.4,49,0,0,8,0
+TT-PO-0412,2026-04-07,Cotton-Poly Blend,White,2280,Urgent,Winch,14.3,70,4,0,4,0
+TT-PO-0413,2026-01-01,Cotton,Medium,740,High,Jet Dyeing,7.7,64,1,0,8,1
+TT-PO-0414,2026-02-22,Nylon,Dark,1030,High,Jigger,14.8,58,0,0,10,0
+TT-PO-0415,2026-06-26,Cotton,Dark,1870,Normal,Jet Dyeing,13.2,54,0,0,14,0
+TT-PO-0416,2026-01-19,Cotton,Medium,790,High,Jet Dyeing,8.8,97,5,1,11,0
+TT-PO-0417,2026-03-21,Polyester,Dark,1600,High,Jet Dyeing,12.3,77,2,1,10,0
+TT-PO-0418,2026-02-03,Cotton,Dark,180,High,Jet Dyeing,9.7,58,0,0,10,0
+TT-PO-0419,2026-04-26,Polyester,Medium,1820,Normal,Soft Flow,12,50,0,1,7,0
+TT-PO-0420,2026-01-19,Viscose,White,610,Normal,Jigger,6.7,49,1,1,8,0
+TT-PO-0421,2026-02-25,Polyester,White,600,Normal,Jigger,7.6,62,4,1,4,0
+TT-PO-0422,2026-03-28,Cotton,White,2010,Normal,Soft Flow,,66,1,2,13,0
+TT-PO-0423,2026-04-11,Polyester,Dark,1750,Normal,Jigger,15.9,51,1,0,5,0
+TT-PO-0424,2026-03-25,Cotton-Poly Blend,Dark,1200,Normal,Jet Dyeing,13.8,55,3,1,13,0
+TT-PO-0425,2026-03-03,Cotton,Dark,1360,Normal,Soft Flow,14.4,59,3,0,5,0
+TT-PO-0426,2026-04-22,Nylon,Medium,1160,Normal,Jet Dyeing,12,68,3,0,6,0
+TT-PO-0427,2026-05-10,Cotton-Poly Blend,Medium,1650,High,Jigger,11.1,69,3,0,2,0
+TT-PO-0428,2026-04-02,Cotton-Poly Blend,Dark,2270,Normal,Jet Dyeing,14,93,7,2,12,0
+TT-PO-0429,2026-01-04,Cotton-Poly Blend,Medium,1740,High,Jet Dyeing,10.9,97,6,0,8,1
+TT-PO-0430,2026-01-09,Nylon,Light,540,Normal,Soft Flow,9.8,97,7,0,7,0
+TT-PO-0431,2026-02-16,Viscose,Light,1750,Normal,Jigger,10.5,51,3,0,3,0
+TT-PO-0432,2026-03-28,Cotton-Poly Blend,White,1420,Urgent,Jigger,11.4,90,4,2,5,0
+TT-PO-0433,2026-05-22,Polyester,Dark,1350,High,Soft Flow,10.8,87,2,0,10,0
+TT-PO-0434,2026-02-11,Cotton-Poly Blend,Medium,2160,Urgent,Soft Flow,11.4,85,5,0,14,0
+TT-PO-0435,2026-06-08,Cotton-Poly Blend,Medium,540,Normal,Jet Dyeing,7.4,91,4,0,2,1
+TT-PO-0436,2026-04-02,Cotton-Poly Blend,Dark,1130,High,Soft Flow,13.4,52,0,0,11,0
+TT-PO-0437,2026-06-19,Nylon,Medium,1500,High,Jet Dyeing,10.8,81,2,0,10,0
+TT-PO-0438,2026-03-04,Nylon,Medium,920,Normal,Jet Dyeing,9.1,,5,0,7,0
+TT-PO-0439,2026-06-02,Cotton,Medium,2010,Normal,Jet Dyeing,11.9,81,4,3,12,0
+TT-PO-0440,2026-04-01,Cotton-Poly Blend,Light,1880,Normal,Jet Dyeing,12.3,91,6,0,6,1
+TT-PO-0441,2026-05-29,Polyester,Dark,2030,Normal,Soft Flow,14.1,88,4,0,12,0
+TT-PO-0442,2026-03-30,Polyester,Medium,760,High,Winch,8.4,83,3,0,2,0
+TT-PO-0443,2026-06-03,Cotton,Medium,2210,Normal,Jet Dyeing,14.3,74,5,0,9,0
+TT-PO-0444,2026-05-13,Cotton-Poly Blend,Dark,1200,Normal,Soft Flow,10.8,51,3,0,5,0
+TT-PO-0445,2026-05-29,Cotton,Dark,370,Normal,Soft Flow,10.2,48,2,1,3,1
+TT-PO-0446,2026-01-22,Cotton,Medium,2150,Normal,Jigger,12.4,91,4,0,14,0
+TT-PO-0447,2026-06-14,Cotton,Medium,2040,High,Jet Dyeing,11.7,85,4,1,7,1
+TT-PO-0448,2026-01-30,Cotton-Poly Blend,Dark,1210,Urgent,Jigger,13.7,76,4,0,10,0
+TT-PO-0449,2026-02-15,Cotton-Poly Blend,Medium,670,Normal,Jet Dyeing,8.2,84,6,0,9,0
+TT-PO-0450,2026-06-26,Polyester,Dark,1450,Normal,Winch,14.3,63,1,1,2,0
+TT-PO-0451,2026-06-27,Cotton,Light,1990,Normal,Soft Flow,13.7,48,3,0,11,0
+TT-PO-0452,2026-05-09,Cotton,Light,1130,Normal,Soft Flow,8.8,95,5,0,13,0
+TT-PO-0453,2026-02-26,Nylon,Medium,1590,Normal,Winch,13.9,65,1,0,3,0
+TT-PO-0454,2026-05-29,Nylon,Dark,1130,Normal,Jigger,13.8,80,5,0,11,1
+TT-PO-0455,2026-01-03,Nylon,Light,2240,Urgent,Jigger,13.4,91,3,2,2,1
+TT-PO-0456,2026-01-11,Viscose,Light,470,Normal,Soft Flow,8.1,60,1,0,7,0
+TT-PO-0457,2026-04-04,Cotton,Light,570,Urgent,Jet Dyeing,9.1,84,2,0,7,0
+TT-PO-0458,2026-04-25,Viscose,Medium,1390,Normal,Jigger,9.2,92,4,0,10,1
+TT-PO-0459,2026-04-29,Cotton,Medium,680,Normal,Jet Dyeing,9.2,62,1,0,12,0
+TT-PO-0460,2026-05-08,Polyester,White,1730,Normal,Jet Dyeing,11.2,70,5,1,9,0
+TT-PO-0461,2026-03-10,Cotton-Poly Blend,Light,2140,Normal,Jet Dyeing,11.8,65,3,1,10,0
+TT-PO-0462,2026-02-10,Polyester,Medium,2120,High,Soft Flow,14.1,82,2,0,11,1
+TT-PO-0463,2026-05-27,Cotton,Medium,2190,Normal,Jigger,13.3,72,2,0,9,0
+TT-PO-0464,2026-02-18,Cotton,Dark,1630,Normal,Jet Dyeing,13.3,69,1,2,7,0
+TT-PO-0465,2026-02-07,Nylon,Dark,340,High,Jigger,11.2,96,5,0,8,0
+TT-PO-0466,2026-02-18,Polyester,White,230,Normal,Jet Dyeing,7.3,93,3,0,6,1
+TT-PO-0467,2026-05-10,Cotton,Dark,1760,Normal,Soft Flow,13.7,80,2,0,14,0
+TT-PO-0468,2026-03-12,Polyester,Dark,800,Normal,Jet Dyeing,8.9,49,0,0,5,0
+TT-PO-0469,2026-03-03,Polyester,Light,1520,Normal,Soft Flow,9.5,73,3,0,5,0
+TT-PO-0470,2026-03-03,Viscose,Light,1300,Normal,Jet Dyeing,8.2,73,2,0,3,1
+TT-PO-0471,2026-02-26,Cotton,Medium,260,High,Soft Flow,8.1,59,1,1,13,0
+TT-PO-0472,2026-04-27,Viscose,Dark,2110,Normal,Soft Flow,17,88,6,0,6,0
+TT-PO-0473,2026-01-22,Cotton,Dark,1170,Normal,Jigger,11.5,75,4,1,14,0
+TT-PO-0474,2026-03-10,Nylon,Medium,560,High,Jet Dyeing,8.9,68,4,2,9,1
+TT-PO-0475,2026-01-01,Viscose,Light,1120,Normal,Soft Flow,8.3,97,4,0,12,0
+TT-PO-0476,2026-02-25,Cotton,White,1940,Normal,Winch,12.3,67,1,3,10,0
+TT-PO-0477,2026-03-26,Cotton,Medium,1900,Normal,Jigger,13.4,98,6,3,7,0
+TT-PO-0478,2026-04-29,Viscose,Dark,2080,High,Jet Dyeing,16.8,85,5,0,9,0
+TT-PO-0479,2026-01-29,Cotton-Poly Blend,Dark,1090,High,Soft Flow,11.9,64,1,0,11,0
+TT-PO-0480,2026-06-22,Viscose,White,1260,Normal,Jigger,11.9,53,2,0,4,0
+TT-PO-0481,2026-06-08,Nylon,Dark,880,Normal,Jigger,12.5,49,0,1,14,0
+TT-PO-0482,2026-02-22,Cotton,Dark,1350,Normal,Jet Dyeing,12.8,74,4,0,6,0
+TT-PO-0483,2026-06-11,Cotton-Poly Blend,Light,2310,Normal,Jet Dyeing,12.7,89,4,1,2,0
+TT-PO-0484,2026-01-29,Viscose,Medium,1950,Normal,Winch,13.3,95,4,1,14,0
+TT-PO-0485,2026-01-24,Polyester,White,1620,High,Soft Flow,,61,2,0,11,0
+TT-PO-0486,2026-05-05,Nylon,White,1060,Normal,Soft Flow,9.6,85,5,1,14,1
+TT-PO-0487,2026-06-26,Cotton,Medium,2090,Normal,Soft Flow,13.2,98,4,1,13,1
+TT-PO-0488,2026-05-29,Polyester,Medium,800,Normal,Soft Flow,9.7,90,3,1,13,0
+TT-PO-0489,2026-01-21,Cotton,White,1460,Normal,Jet Dyeing,11.5,62,3,1,7,0
+TT-PO-0490,2026-04-26,Cotton,Dark,2040,Normal,Jigger,15,71,4,1,13,0
+TT-PO-0491,2026-06-22,Cotton-Poly Blend,Light,2070,Normal,Jigger,12.4,77,4,0,13,0
+TT-PO-0492,2026-06-11,Cotton,Medium,1010,Normal,Jet Dyeing,8.2,62,2,1,11,0
+TT-PO-0493,2026-04-01,Polyester,Dark,2280,Normal,Jet Dyeing,14.4,97,3,0,7,0
+TT-PO-0494,2026-06-01,Cotton,Dark,260,Urgent,Jigger,7.6,65,1,0,6,0
+TT-PO-0495,2026-05-24,Cotton-Poly Blend,White,1180,Normal,Winch,8.4,50,0,0,12,0
+TT-PO-0496,2026-03-27,Nylon,Dark,1500,High,Jet Dyeing,13.1,79,5,0,14,0
+TT-PO-0497,2026-02-07,Polyester,Medium,1110,Urgent,Jigger,9.3,63,2,1,8,0
+TT-PO-0498,2026-01-18,Cotton-Poly Blend,Light,1790,Normal,Soft Flow,11.7,84,4,0,4,1
+TT-PO-0499,2026-04-27,Polyester,Dark,1470,High,Jigger,12.2,94,4,0,12,0
+TT-PO-0500,2026-04-23,Nylon,Medium,340,Normal,Soft Flow,9.1,57,0,0,13,0
+TT-PO-0501,2026-06-02,Polyester,Medium,340,Normal,Jet Dyeing,5,84,4,0,10,0
+TT-PO-0502,2026-04-11,Polyester,Dark,1160,Normal,Soft Flow,10.8,50,0,0,10,0
+TT-PO-0503,2026-04-05,Cotton,Medium,1440,Normal,Jet Dyeing,11.4,67,1,0,12,0
+TT-PO-0504,2026-02-24,Polyester,Dark,620,Normal,Jet Dyeing,10.2,78,4,0,5,0
+TT-PO-0505,2026-04-19,Polyester,Light,2120,Normal,Jigger,14.7,54,0,0,4,1
+TT-PO-0506,2026-04-02,Viscose,Dark,510,High,Soft Flow,9.7,79,4,0,8,0
+TT-PO-0507,2026-01-11,Cotton-Poly Blend,Medium,540,Urgent,Jet Dyeing,7,48,2,0,11,0
+TT-PO-0508,2026-03-01,Cotton-Poly Blend,White,470,Urgent,Soft Flow,8.9,78,4,1,8,1
+TT-PO-0509,2026-03-01,Cotton,Light,1080,High,Winch,10.9,53,1,0,10,0
+TT-PO-0510,2026-06-04,Cotton-Poly Blend,Medium,530,Normal,Jigger,8.3,71,4,0,9,0
+TT-PO-0511,2026-04-01,Cotton-Poly Blend,Medium,1300,Normal,Jet Dyeing,10,,4,0,2,0
+TT-PO-0512,2026-02-13,Polyester,Medium,1100,Normal,Jet Dyeing,10.5,70,4,1,9,0
+TT-PO-0513,2026-04-29,Viscose,Dark,980,Normal,Soft Flow,9.8,86,6,0,4,0
+TT-PO-0514,2026-02-08,Cotton-Poly Blend,White,1720,High,Jet Dyeing,11.7,56,0,0,14,0
+TT-PO-0515,2026-05-18,Cotton,Dark,860,High,Jigger,11,48,1,0,13,0
+TT-PO-0516,2026-03-18,Cotton,White,260,Normal,Jigger,4.9,69,2,0,2,0
+TT-PO-0517,2026-03-26,Polyester,Light,1650,Normal,Jet Dyeing,9.5,79,4,0,8,0
+TT-PO-0518,2026-01-16,Polyester,Dark,1400,Normal,Jet Dyeing,14.7,49,0,1,8,0
+TT-PO-0519,2026-01-16,Cotton,Light,1620,High,Jigger,10.3,48,0,2,2,0
+TT-PO-0520,2026-06-25,Cotton-Poly Blend,White,1460,Normal,Soft Flow,9.7,64,1,0,9,0
+TT-PO-0521,2026-01-19,Polyester,Light,900,Normal,Soft Flow,8.8,63,3,1,10,0
+TT-PO-0522,2026-05-27,Cotton-Poly Blend,Light,1660,Normal,Jet Dyeing,12.9,63,2,1,13,0
+TT-PO-0523,2026-04-30,Polyester,White,450,High,Jigger,7.1,74,3,0,11,1
+TT-PO-0524,2026-01-13,Polyester,Medium,1010,Normal,Soft Flow,7.7,96,4,0,7,0
+TT-PO-0525,2026-01-09,Viscose,Medium,840,Urgent,Jet Dyeing,10.3,89,4,0,12,0
+TT-PO-0526,2026-01-12,Viscose,White,1420,Normal,Jigger,11.1,57,3,1,11,0
+TT-PO-0527,2026-02-28,Cotton,Dark,730,Normal,Soft Flow,11.9,84,4,1,13,0
+TT-PO-0528,2026-06-12,Cotton,Light,1940,Urgent,Jet Dyeing,11.7,78,3,0,12,0
+TT-PO-0529,2026-01-03,Polyester,Medium,2290,Normal,Soft Flow,14.4,90,6,2,3,1
+TT-PO-0530,2026-01-28,Cotton,White,2390,Normal,Jet Dyeing,15.1,60,1,1,3,1
+TT-PO-0531,2026-06-28,Polyester,Medium,1080,Normal,Soft Flow,8.8,52,1,0,6,0
+TT-PO-0532,2026-03-03,Cotton,White,220,High,Jigger,7,70,2,1,2,0
+TT-PO-0533,2026-04-30,Cotton-Poly Blend,Medium,2390,Normal,Soft Flow,13.7,60,4,1,5,0
+TT-PO-0534,2026-03-26,Cotton-Poly Blend,Medium,760,Urgent,Jet Dyeing,6.4,82,5,0,3,0
+TT-PO-0535,2026-05-05,Viscose,Medium,1720,Normal,Jet Dyeing,10.6,54,2,0,4,1
+TT-PO-0536,2026-06-27,Polyester,Light,250,Normal,Jet Dyeing,5.1,64,3,0,6,0
+TT-PO-0537,2026-03-10,Cotton,Dark,2190,Normal,Soft Flow,15.3,92,6,0,12,0
+TT-PO-0538,2026-05-02,Cotton,Light,2320,Normal,Jet Dyeing,13.5,70,5,1,4,1
+TT-PO-0539,2026-02-14,Cotton-Poly Blend,Light,1190,Normal,Soft Flow,10,94,4,3,8,1
+TT-PO-0540,2026-02-07,Polyester,Dark,1520,Normal,Soft Flow,13.3,53,1,0,5,0
+TT-PO-0541,2026-05-28,Polyester,Light,640,Normal,Jet Dyeing,7.8,95,6,0,14,1
+TT-PO-0542,2026-04-21,Cotton,Medium,720,Normal,Jet Dyeing,7.2,65,4,0,10,1
+TT-PO-0543,2026-06-07,Polyester,Dark,1060,High,Soft Flow,11.6,,4,0,4,1
+TT-PO-0544,2026-03-07,Cotton-Poly Blend,Dark,1320,Normal,Jigger,10.4,81,3,0,14,0
+TT-PO-0545,2026-02-07,Cotton-Poly Blend,Dark,550,Normal,Winch,9.8,58,0,0,14,0
+TT-PO-0546,2026-01-05,Cotton,Dark,1820,Normal,Soft Flow,15.9,77,3,1,8,1
+TT-PO-0547,2026-03-05,Cotton-Poly Blend,Dark,1280,Urgent,Jigger,10.5,67,3,1,8,0
+TT-PO-0548,2026-02-25,Polyester,Light,900,Normal,Jet Dyeing,7.3,62,2,3,6,0
+TT-PO-0549,2026-04-10,Viscose,Medium,1850,Normal,Jigger,11.7,61,3,0,8,0
+TT-PO-0550,2026-03-25,Cotton-Poly Blend,Medium,1950,Normal,Jet Dyeing,12.4,51,3,1,10,0
+TT-PO-0551,2026-04-21,Cotton-Poly Blend,Dark,660,Normal,Winch,8.1,94,4,1,11,0
+TT-PO-0552,2026-05-25,Cotton,Light,1090,Normal,Soft Flow,7.9,98,5,1,5,0
+TT-PO-0553,2026-02-11,Polyester,Light,2190,Normal,Jet Dyeing,11.5,76,2,0,2,0
+TT-PO-0554,2026-01-11,Cotton,Light,1750,Normal,Jet Dyeing,13,98,7,0,4,1
+TT-PO-0555,2026-05-10,Polyester,White,1570,Normal,Winch,12.2,95,4,0,8,0
+TT-PO-0556,2026-04-10,Polyester,Medium,310,Normal,Soft Flow,8.3,53,1,2,4,0
+TT-PO-0557,2026-05-03,Cotton-Poly Blend,White,1250,Normal,Jet Dyeing,8.5,77,2,1,13,0
+TT-PO-0558,2026-01-05,Cotton,Medium,2240,Normal,Winch,15.2,52,2,0,8,0
+TT-PO-0559,2026-04-27,Nylon,Medium,1220,Normal,Jet Dyeing,12.5,67,1,0,14,0
+TT-PO-0560,2026-06-15,Nylon,Dark,2110,Normal,Jet Dyeing,15.8,93,5,0,13,0
+TT-PO-0561,2026-01-22,Nylon,Medium,1140,Normal,Jigger,12.1,79,2,0,11,0
+TT-PO-0562,2026-01-12,Cotton-Poly Blend,Medium,1630,High,Jet Dyeing,9.7,75,2,0,2,1
+TT-PO-0563,2026-03-26,Cotton,Dark,950,Normal,Winch,11.2,84,5,0,4,0
+TT-PO-0564,2026-04-03,Polyester,Dark,1910,Normal,Winch,15.4,60,1,0,8,0
+TT-PO-0565,2026-04-08,Nylon,Medium,230,Normal,Jet Dyeing,9.7,67,4,1,6,0
+TT-PO-0566,2026-01-01,Cotton-Poly Blend,Medium,510,High,Jigger,8,87,6,2,8,0
+TT-PO-0567,2026-04-29,Polyester,Dark,1210,High,Soft Flow,10.4,90,4,0,9,0
+TT-PO-0568,2026-02-18,Cotton,Dark,960,Normal,Jigger,12.1,94,4,0,4,0
+TT-PO-0569,2026-02-28,Polyester,White,670,Normal,Jigger,6.9,78,3,0,3,0
+TT-PO-0570,2026-03-08,Cotton,Dark,1750,Normal,Soft Flow,15.8,72,2,0,7,1
+TT-PO-0571,2026-05-09,Polyester,Light,1640,Normal,Jet Dyeing,9.8,75,5,1,8,0
+TT-PO-0572,2026-05-02,Polyester,Dark,830,Normal,Jet Dyeing,11.1,63,3,1,5,0
+TT-PO-0573,2026-03-06,Cotton,Medium,1390,High,Jigger,11.7,92,6,0,13,1
+TT-PO-0574,2026-05-20,Cotton-Poly Blend,Medium,470,Normal,Jet Dyeing,7.4,69,2,2,7,0
+TT-PO-0575,2026-03-02,Cotton,Dark,1600,Normal,Soft Flow,15,62,3,0,11,0
+TT-PO-0576,2026-02-11,Polyester,Dark,730,High,Jet Dyeing,12.2,58,0,0,7,0
+TT-PO-0577,2026-03-15,Cotton,Dark,2300,Normal,Jigger,17.6,81,5,1,4,0
+TT-PO-0578,2026-02-08,Cotton,Medium,490,Normal,Jet Dyeing,8.5,97,7,0,9,0
+TT-PO-0579,2026-06-02,Cotton,Light,1730,High,Jet Dyeing,12.8,87,3,0,7,1
+TT-PO-0580,2026-03-20,Cotton-Poly Blend,White,850,Normal,Winch,7.5,49,0,0,8,0
+TT-PO-0581,2026-01-23,Cotton,Light,1580,Normal,Soft Flow,9.7,64,1,0,9,0
+TT-PO-0582,2026-05-10,Cotton,White,440,Normal,Soft Flow,,78,2,0,14,0
+TT-PO-0583,2026-03-28,Viscose,Light,700,Normal,Winch,8.4,98,4,0,8,1
+TT-PO-0584,2026-05-03,Polyester,Dark,2080,Normal,Jigger,16.2,,4,0,14,1
+TT-PO-0585,2026-06-30,Viscose,Light,1710,Normal,Jet Dyeing,11.9,71,3,0,8,0
+TT-PO-0586,2026-06-26,Polyester,White,2340,Urgent,Jet Dyeing,12.2,78,2,0,9,0
+TT-PO-0587,2026-06-19,Cotton,Dark,2310,Normal,Jet Dyeing,17.9,61,3,0,7,0
+TT-PO-0588,2026-06-27,Cotton-Poly Blend,Light,1820,Normal,Soft Flow,13.2,70,3,1,8,1
+TT-PO-0589,2026-01-14,Cotton,Dark,610,Normal,Jet Dyeing,8.1,89,6,0,13,0
+TT-PO-0590,2026-05-27,Cotton,Medium,630,Normal,Jet Dyeing,8.4,84,5,3,10,1
+TT-PO-0591,2026-01-28,Cotton-Poly Blend,Light,1380,Normal,Jet Dyeing,10.2,87,6,1,8,0
+TT-PO-0592,2026-03-27,Cotton-Poly Blend,Light,1630,Normal,Soft Flow,12.7,66,4,1,12,1
+TT-PO-0593,2026-02-22,Viscose,Medium,230,Normal,Soft Flow,5.1,81,4,0,7,0
+TT-PO-0594,2026-05-02,Cotton,White,960,Normal,Jet Dyeing,9.4,76,5,0,11,0
+TT-PO-0595,2026-02-05,Cotton,Medium,330,Normal,Jet Dyeing,6.6,72,1,1,2,0
+TT-PO-0596,2026-06-17,Polyester,Light,1210,High,Winch,10,82,3,0,2,1
+TT-PO-0597,2026-05-10,Nylon,Medium,1150,Normal,Soft Flow,12.7,77,4,0,10,0
+TT-PO-0598,2026-04-07,Polyester,Dark,1030,High,Soft Flow,10.4,97,4,0,6,0
+TT-PO-0599,2026-06-14,Viscose,Dark,1710,Normal,Winch,15.1,64,4,1,13,0
+TT-PO-0600,2026-05-29,Cotton,Light,2060,High,Jet Dyeing,12.4,54,1,2,14,0
+TT-PO-0601,2026-01-15,Cotton,White,1030,Normal,Soft Flow,7.9,84,5,0,4,0
+TT-PO-0602,2026-05-25,Cotton-Poly Blend,Dark,1950,Normal,Winch,14.1,86,2,1,10,0
+TT-PO-0603,2026-03-25,Nylon,Dark,450,High,Jet Dyeing,11.7,72,5,1,9,0
+TT-PO-0604,2026-05-22,Polyester,Dark,720,Normal,Jet Dyeing,11.5,83,3,0,7,0
+TT-PO-0605,2026-03-11,Nylon,Light,2230,Normal,Jet Dyeing,16.4,50,3,0,11,0
+TT-PO-0606,2026-01-27,Cotton-Poly Blend,Medium,1120,Normal,Jet Dyeing,7.8,68,3,1,3,0
+TT-PO-0607,2026-01-20,Cotton,Medium,300,Normal,Soft Flow,4.9,75,3,2,12,1
+TT-PO-0608,2026-03-03,Viscose,Light,840,Normal,Jet Dyeing,9.1,92,5,3,12,1
+TT-PO-0609,2026-03-14,Cotton,Dark,910,High,Soft Flow,11.1,69,3,0,6,0
+TT-PO-0610,2026-03-26,Cotton-Poly Blend,Medium,680,High,Soft Flow,5.9,76,4,0,11,0
+TT-PO-0611,2026-05-21,Polyester,White,1480,Urgent,Soft Flow,10.9,58,3,0,14,0
+TT-PO-0612,2026-02-17,Viscose,Dark,300,Normal,Jigger,9.9,85,5,1,14,1
+TT-PO-0613,2026-03-21,Cotton,Light,1640,Normal,Jet Dyeing,10.6,58,3,1,13,0
+TT-PO-0614,2026-02-07,Cotton,Light,1440,Normal,Jet Dyeing,9.9,78,2,0,5,1
+TT-PO-0615,2026-02-14,Viscose,Dark,530,Normal,Jet Dyeing,10.7,48,2,2,3,1
+TT-PO-0616,2026-01-10,Polyester,Dark,1760,Normal,Soft Flow,14.2,49,3,0,4,0
+TT-PO-0617,2026-05-05,Cotton,Medium,2260,Urgent,Jet Dyeing,15.4,91,3,0,13,0
+TT-PO-0618,2026-06-06,Cotton,Light,1940,Normal,Jigger,13.6,79,6,1,8,1
+TT-PO-0619,2026-01-08,Cotton,White,1840,High,Jet Dyeing,10.7,82,2,2,8,1
+TT-PO-0620,2026-03-03,Cotton-Poly Blend,Light,1680,High,Soft Flow,11.3,85,5,0,5,0
+TT-PO-0621,2026-06-20,Polyester,Dark,730,Normal,Jigger,12,85,6,3,14,1
+TT-PO-0622,2026-03-21,Cotton-Poly Blend,Light,250,Normal,Soft Flow,7.7,67,3,0,4,0
+TT-PO-0623,2026-03-09,Cotton,Dark,540,Normal,Jet Dyeing,11.3,76,3,0,13,1
+TT-PO-0624,2026-01-22,Cotton-Poly Blend,Light,530,High,Soft Flow,7.7,58,0,0,4,0
+TT-PO-0625,2026-04-11,Polyester,White,780,Normal,Soft Flow,8.5,50,1,2,6,0
+TT-PO-0626,2026-01-03,Polyester,White,1450,High,Jet Dyeing,9.5,59,0,0,3,0
+TT-PO-0627,2026-05-03,Polyester,White,1880,Normal,Jet Dyeing,12.6,58,0,2,6,0
+TT-PO-0628,2026-02-06,Viscose,Medium,1600,Urgent,Jet Dyeing,11.9,64,1,0,8,1
+TT-PO-0629,2026-06-22,Viscose,Light,550,High,Soft Flow,8,80,3,0,7,0
+TT-PO-0630,2026-06-13,Cotton,Medium,860,Normal,Jet Dyeing,6.9,50,0,0,4,0
+TT-PO-0631,2026-04-15,Cotton,Medium,2300,Normal,Jet Dyeing,15,86,3,2,4,0
+TT-PO-0632,2026-03-09,Viscose,Medium,2180,Normal,Winch,12.6,75,4,2,13,1
+TT-PO-0633,2026-01-11,Polyester,Dark,2080,Normal,Winch,,52,2,0,14,0
+TT-PO-0634,2026-06-07,Cotton-Poly Blend,Light,2370,Normal,Winch,12.1,85,5,1,12,1
+TT-PO-0635,2026-03-17,Polyester,Medium,700,High,Jet Dyeing,6.9,92,5,0,4,0
+TT-PO-0636,2026-06-19,Viscose,Medium,1170,Normal,Jigger,8.7,90,6,1,5,0
+TT-PO-0637,2026-03-06,Cotton,Light,2390,Urgent,Soft Flow,14.1,65,3,0,3,1
+TT-PO-0638,2026-03-31,Viscose,Dark,860,Normal,Jigger,12.3,84,5,1,11,0
+TT-PO-0639,2026-04-08,Cotton-Poly Blend,Medium,1790,High,Winch,10.5,77,5,1,8,1
+TT-PO-0640,2026-05-18,Cotton,Light,1370,Normal,Jet Dyeing,10.7,85,6,2,2,1
+TT-PO-0641,2026-04-19,Cotton-Poly Blend,Dark,790,Urgent,Jet Dyeing,11.6,88,6,0,14,1
+TT-PO-0642,2026-05-04,Viscose,Medium,460,High,Jet Dyeing,5.3,73,4,0,9,0
+TT-PO-0643,2026-01-21,Cotton,Light,970,Normal,Jigger,9.9,91,4,1,7,0
+TT-PO-0644,2026-01-13,Nylon,Dark,460,High,Soft Flow,12.7,52,3,0,9,0
+TT-PO-0645,2026-02-18,Nylon,Light,2000,Normal,Soft Flow,13.3,75,3,1,6,0
+TT-PO-0646,2026-05-15,Cotton,Dark,820,High,Soft Flow,11.1,59,3,0,10,0
+TT-PO-0647,2026-01-20,Cotton-Poly Blend,Dark,600,Normal,Soft Flow,8.6,52,0,1,7,0
+TT-PO-0648,2026-03-25,Cotton-Poly Blend,Medium,1200,Normal,Soft Flow,8.1,50,3,1,10,0
+TT-PO-0649,2026-03-03,Nylon,Medium,1980,Normal,Jet Dyeing,14.5,54,3,0,10,0
+TT-PO-0650,2026-05-14,Viscose,Dark,2040,Normal,Soft Flow,13.8,48,3,0,13,0
+TT-PO-0651,2026-04-26,Cotton-Poly Blend,Light,1560,High,Jigger,10.9,93,4,1,2,1
+TT-PO-0652,2026-06-19,Cotton,Medium,400,Normal,Soft Flow,8.5,92,6,0,3,0
+TT-PO-0653,2026-06-28,Cotton-Poly Blend,Dark,1570,Urgent,Jigger,14.3,69,4,1,8,1
+TT-PO-0654,2026-06-12,Cotton-Poly Blend,Medium,1570,Urgent,Jet Dyeing,13.1,53,3,0,12,0
+TT-PO-0655,2026-06-27,Viscose,Dark,860,Normal,Jet Dyeing,11.4,61,4,1,3,0
+TT-PO-0656,2026-06-21,Cotton-Poly Blend,Dark,1560,Normal,Jet Dyeing,13.8,94,5,0,11,1
+TT-PO-0657,2026-02-06,Viscose,Dark,430,High,Soft Flow,9.2,,5,2,3,1
+TT-PO-0658,2026-03-04,Cotton-Poly Blend,White,1550,Normal,Winch,11.4,70,4,0,2,0
+TT-PO-0659,2026-05-25,Polyester,White,470,Normal,Soft Flow,8.8,94,6,2,10,1
+TT-PO-0660,2026-05-24,Nylon,Dark,910,Normal,Soft Flow,12.7,67,4,0,3,0
+TT-PO-0661,2026-04-08,Polyester,Light,1890,Normal,Winch,10.3,77,3,0,9,0
+TT-PO-0662,2026-03-12,Cotton,Medium,950,High,Winch,8.2,50,0,1,3,0
+TT-PO-0663,2026-03-20,Cotton-Poly Blend,White,1500,High,Winch,11,84,3,0,11,1
+TT-PO-0664,2026-05-17,Viscose,Dark,1530,Normal,Soft Flow,15,75,5,0,13,0
+TT-PO-0665,2026-03-18,Cotton,White,2360,Normal,Jet Dyeing,13.8,52,0,0,3,0
+TT-PO-0666,2026-02-03,Cotton,White,950,Urgent,Soft Flow,9.5,65,4,0,6,0
+TT-PO-0667,2026-03-09,Viscose,Light,1030,Urgent,Winch,9.8,78,4,0,3,0
+TT-PO-0668,2026-06-03,Viscose,Medium,2060,Normal,Winch,12.5,68,2,1,14,0
+TT-PO-0669,2026-05-16,Polyester,Dark,1390,Normal,Jigger,12.6,70,4,0,9,0
+TT-PO-0670,2026-04-06,Cotton,Medium,1370,Normal,Jigger,10.5,74,3,0,5,0
+TT-PO-0671,2026-01-22,Cotton,Medium,2390,Normal,Jigger,14.1,80,4,0,5,0
+TT-PO-0672,2026-01-26,Polyester,Dark,290,Normal,Jet Dyeing,6.8,60,1,1,11,0
+TT-PO-0673,2026-05-03,Cotton-Poly Blend,White,590,Normal,Jet Dyeing,5.8,56,0,0,3,0
+TT-PO-0674,2026-06-22,Viscose,Medium,2010,Normal,Soft Flow,11.5,93,6,1,13,1
+TT-PO-0675,2026-02-03,Cotton-Poly Blend,Medium,1770,High,Jet Dyeing,12.1,98,7,0,14,1
+TT-PO-0676,2026-06-27,Polyester,Dark,1330,Normal,Winch,14.4,62,0,0,5,0
+TT-PO-0677,2026-06-13,Cotton,Dark,1880,High,Jet Dyeing,15.6,60,2,1,6,0
+TT-PO-0678,2026-04-16,Cotton-Poly Blend,Dark,1290,Normal,Soft Flow,12.3,92,5,0,6,1
+TT-PO-0679,2026-06-13,Cotton,Dark,880,Urgent,Winch,,86,5,0,9,0
+TT-PO-0680,2026-04-03,Cotton-Poly Blend,Dark,840,Urgent,Jet Dyeing,8.9,77,2,2,12,1
+TT-PO-0681,2026-05-17,Cotton-Poly Blend,Light,950,Normal,Jet Dyeing,9.2,58,3,1,5,0
+TT-PO-0682,2026-02-23,Nylon,Medium,390,High,Jet Dyeing,9.9,57,2,0,3,0
+TT-PO-0683,2026-02-10,Polyester,Dark,710,Normal,Jet Dyeing,9.5,63,1,0,13,0
+TT-PO-0684,2026-03-12,Cotton,Light,560,High,Jet Dyeing,7.7,87,2,0,4,0
+TT-PO-0685,2026-06-20,Cotton-Poly Blend,Light,1130,Normal,Jigger,9.2,80,3,0,12,0
+TT-PO-0686,2026-01-24,Viscose,Dark,1940,Normal,Jet Dyeing,13.5,80,6,1,14,0
+TT-PO-0687,2026-05-23,Polyester,Medium,630,Normal,Jet Dyeing,8.2,64,3,2,2,0
+TT-PO-0688,2026-04-29,Nylon,Dark,1220,Normal,Soft Flow,14.7,66,1,0,9,0
+TT-PO-0689,2026-05-24,Cotton-Poly Blend,Dark,2130,Urgent,Soft Flow,16.1,58,0,1,11,0
+TT-PO-0690,2026-01-18,Nylon,Light,1580,Normal,Jet Dyeing,11.5,48,0,0,6,0
+TT-PO-0691,2026-06-02,Polyester,Light,1040,Normal,Soft Flow,8,82,3,1,8,0
+TT-PO-0692,2026-06-26,Cotton-Poly Blend,Dark,190,Urgent,Jet Dyeing,8.6,80,4,0,14,1
+TT-PO-0693,2026-02-18,Polyester,Dark,1210,Normal,Jigger,10.5,83,4,2,10,1
+TT-PO-0694,2026-05-12,Cotton-Poly Blend,Dark,210,Normal,Soft Flow,7.6,57,2,0,6,0
+TT-PO-0695,2026-06-10,Cotton,White,1800,Urgent,Soft Flow,11.3,56,3,0,3,0
+TT-PO-0696,2026-06-04,Cotton,Dark,1880,Normal,Jet Dyeing,15.6,68,4,0,3,0
+TT-PO-0697,2026-01-23,Cotton,Light,190,Urgent,Soft Flow,5.7,82,3,0,4,0
+TT-PO-0698,2026-01-11,Cotton-Poly Blend,Medium,830,High,Jet Dyeing,7.3,48,1,0,4,0
+TT-PO-0699,2026-01-06,Cotton-Poly Blend,Dark,2350,High,Jet Dyeing,15.2,51,3,0,10,0
+TT-PO-0700,2026-04-12,Nylon,Light,940,Normal,Jet Dyeing,8.9,53,3,0,6,0
+TT-PO-0701,2026-01-09,Polyester,Light,1300,Normal,Jet Dyeing,9.1,86,6,0,12,0
+TT-PO-0702,2026-06-13,Polyester,Medium,1170,Normal,Soft Flow,8,78,4,1,5,0
+TT-PO-0703,2026-03-29,Polyester,Medium,1250,High,Winch,8.6,91,5,0,9,0
+TT-PO-0704,2026-05-10,Cotton,Dark,430,Normal,Jet Dyeing,10.6,54,1,0,8,0
+TT-PO-0705,2026-04-16,Cotton-Poly Blend,Dark,2030,Normal,Jet Dyeing,16.4,91,4,0,4,1
+TT-PO-0706,2026-04-14,Polyester,Light,430,Urgent,Jet Dyeing,7.6,90,3,0,3,0
+TT-PO-0707,2026-05-11,Cotton,Light,2160,High,Soft Flow,14.7,50,1,0,13,1
+TT-PO-0708,2026-06-17,Viscose,White,1680,Normal,Soft Flow,12.8,55,2,2,2,1
+TT-PO-0709,2026-01-26,Viscose,Dark,1870,Normal,Soft Flow,15.8,74,4,0,13,0
+TT-PO-0710,2026-03-22,Cotton-Poly Blend,Medium,1260,Normal,Jet Dyeing,9.9,52,1,0,14,0
+TT-PO-0711,2026-01-21,Cotton-Poly Blend,Dark,780,High,Soft Flow,9.9,94,6,0,14,0
+TT-PO-0712,2026-06-08,Cotton-Poly Blend,Dark,440,Normal,Soft Flow,8.4,48,2,0,3,0
+TT-PO-0713,2026-04-01,Viscose,Dark,1250,Normal,Soft Flow,12,72,4,0,13,0
+TT-PO-0714,2026-06-22,Cotton,Light,2130,Normal,Winch,13.9,98,4,1,5,0
+TT-PO-0715,2026-02-04,Cotton,Medium,760,Normal,Soft Flow,7.4,96,5,0,5,0
+TT-PO-0716,2026-05-02,Cotton-Poly Blend,White,220,Normal,Soft Flow,5.3,71,5,0,8,0
+TT-PO-0717,2026-04-10,Polyester,Light,2190,Normal,Soft Flow,13.7,96,5,0,6,1
+TT-PO-0718,2026-01-05,Cotton,Light,2180,Urgent,Jet Dyeing,11.7,68,5,0,13,0
+TT-PO-0719,2026-05-15,Cotton,Dark,940,Normal,Jet Dyeing,9.9,50,0,0,14,0
+TT-PO-0720,2026-04-03,Cotton-Poly Blend,White,940,Normal,Winch,8.8,83,5,0,5,0
+TT-PO-0721,2026-01-29,Cotton,Dark,820,Normal,Soft Flow,8.7,56,1,0,6,0
+TT-PO-0722,2026-06-18,Cotton-Poly Blend,Medium,1450,High,Soft Flow,9.8,87,2,1,14,0
+TT-PO-0723,2026-03-30,Cotton,Medium,770,Normal,Jet Dyeing,9.8,88,3,0,4,0
+TT-PO-0724,2026-06-03,Cotton-Poly Blend,Medium,1490,Normal,Jet Dyeing,12.2,,2,0,8,0
+TT-PO-0725,2026-03-22,Polyester,Dark,370,High,Jigger,8.7,77,2,0,9,0
+TT-PO-0726,2026-01-22,Cotton-Poly Blend,White,2150,Normal,Soft Flow,12.1,92,6,0,5,1
+TT-PO-0727,2026-06-28,Viscose,Light,680,High,Soft Flow,8.1,70,4,2,12,0
+TT-PO-0728,2026-04-28,Cotton-Poly Blend,Dark,2120,Normal,Jet Dyeing,15.3,56,1,0,3,0
+TT-PO-0729,2026-06-04,Polyester,Dark,300,Normal,Soft Flow,8.7,59,1,1,9,1
+TT-PO-0730,2026-04-01,Cotton,Medium,1410,Normal,Jet Dyeing,12.2,,4,1,12,0
+TT-PO-0731,2026-06-24,Cotton,Dark,1170,Normal,Jigger,12.1,68,4,2,8,0
+TT-PO-0732,2026-03-23,Cotton,Light,1930,Normal,Soft Flow,13.2,88,6,2,12,1
+TT-PO-0733,2026-05-16,Cotton-Poly Blend,Dark,2280,Normal,Jet Dyeing,14.5,73,3,1,8,0
+TT-PO-0734,2026-02-13,Polyester,Dark,2310,Normal,Jet Dyeing,14.4,75,5,0,14,0
+TT-PO-0735,2026-03-14,Cotton,White,320,Normal,Jet Dyeing,6.2,59,1,0,7,0
+TT-PO-0736,2026-02-20,Nylon,Medium,670,High,Jet Dyeing,9.6,73,3,0,13,0
+TT-PO-0737,2026-04-05,Polyester,Light,1030,Normal,Jigger,10.6,59,4,2,11,0
+TT-PO-0738,2026-01-10,Polyester,White,1560,High,Jet Dyeing,9.8,62,2,0,14,0
+TT-PO-0739,2026-06-01,Cotton,Light,1570,Normal,Soft Flow,10.1,80,2,0,5,1
+TT-PO-0740,2026-05-03,Viscose,Dark,1300,High,Soft Flow,12.2,52,0,0,2,0
+TT-PO-0741,2026-02-25,Cotton,Light,1800,High,Winch,13.3,89,4,1,9,0
+TT-PO-0742,2026-03-31,Polyester,Medium,1570,Normal,Jet Dyeing,9.2,80,3,0,8,0
+TT-PO-0743,2026-06-06,Polyester,Dark,1430,Normal,Jet Dyeing,11.6,91,3,0,2,0
+TT-PO-0744,2026-02-28,Viscose,Medium,1350,Normal,Soft Flow,11.4,76,3,0,10,0
+TT-PO-0745,2026-06-17,Cotton,Light,280,High,Winch,6.1,94,5,0,9,0
+TT-PO-0746,2026-05-31,Cotton,White,2060,Normal,Soft Flow,13.8,86,3,0,11,0
+TT-PO-0747,2026-05-27,Viscose,Dark,1010,Normal,Winch,10.2,74,2,0,12,0
+TT-PO-0748,2026-01-12,Cotton,Dark,1790,High,Jet Dyeing,12.9,50,2,0,8,0
+TT-PO-0749,2026-04-14,Viscose,Light,1180,Normal,Soft Flow,10.8,84,5,0,10,0
+TT-PO-0750,2026-03-18,Cotton-Poly Blend,Light,2190,Normal,Winch,14.1,75,4,0,9,0
+TT-PO-0751,2026-06-20,Nylon,Medium,1280,Normal,Jigger,10.7,80,5,1,3,1
+TT-PO-0752,2026-03-06,Polyester,Dark,340,High,Soft Flow,10.2,69,2,0,12,0
+TT-PO-0753,2026-03-10,Cotton,Dark,1190,High,Soft Flow,11.2,93,3,0,8,0
+TT-PO-0754,2026-05-07,Cotton-Poly Blend,Dark,700,Normal,Jet Dyeing,11.3,69,4,0,13,0
+TT-PO-0755,2026-05-25,Cotton-Poly Blend,Medium,210,Normal,Soft Flow,5.1,79,2,0,5,0
+TT-PO-0756,2026-03-05,Cotton,Dark,1210,Normal,Soft Flow,12.4,84,5,0,3,0
+TT-PO-0757,2026-06-12,Polyester,Medium,470,Normal,Jigger,8,50,2,0,2,0
+TT-PO-0758,2026-02-06,Cotton,Dark,1570,Normal,Soft Flow,12.9,86,3,0,11,0
+TT-PO-0759,2026-03-17,Viscose,Dark,1800,Normal,Soft Flow,13.8,63,3,0,13,0
+TT-PO-0760,2026-02-03,Nylon,Dark,460,Normal,Soft Flow,12.4,85,3,2,13,1
+TT-PO-0761,2026-01-15,Viscose,Medium,520,Normal,Winch,7.1,85,4,0,8,0
+TT-PO-0762,2026-02-12,Cotton-Poly Blend,Dark,600,Normal,Soft Flow,8.8,58,2,0,4,0
+TT-PO-0763,2026-04-30,Cotton-Poly Blend,White,670,Normal,Jigger,6.3,66,4,2,12,1
+TT-PO-0764,2026-02-09,Cotton,White,2360,Normal,Winch,15,63,1,0,8,0
+TT-PO-0765,2026-03-10,Polyester,Medium,340,High,Jet Dyeing,6.4,80,4,1,9,0
+TT-PO-0766,2026-01-21,Cotton-Poly Blend,Dark,1430,High,Soft Flow,13.9,75,2,0,10,0
+TT-PO-0767,2026-05-24,Polyester,Dark,2140,Normal,Jet Dyeing,13.6,82,3,0,9,0
+TT-PO-0768,2026-02-10,Cotton,Dark,310,Normal,Soft Flow,8.1,87,3,0,4,0
+TT-PO-0769,2026-06-23,Cotton,Dark,1040,Urgent,Soft Flow,12.1,82,4,0,11,0
+TT-PO-0770,2026-01-17,Cotton-Poly Blend,Medium,1970,Normal,Jigger,12.3,61,1,0,4,0
+TT-PO-0771,2026-01-08,Cotton-Poly Blend,Dark,570,Normal,Winch,11.5,70,3,0,5,0
+TT-PO-0772,2026-06-01,Cotton-Poly Blend,Medium,960,Normal,Jet Dyeing,9.5,50,0,0,9,0
+TT-PO-0773,2026-02-12,Nylon,White,680,High,Jigger,9.1,90,4,0,9,0
+TT-PO-0774,2026-03-05,Viscose,Dark,1000,High,Soft Flow,12.3,75,4,2,13,0
+TT-PO-0775,2026-06-14,Cotton,Dark,1230,Normal,Soft Flow,12.5,62,3,0,9,0
+TT-PO-0776,2026-05-07,Viscose,Light,2000,High,Soft Flow,,63,2,0,13,0
+TT-PO-0777,2026-01-22,Cotton-Poly Blend,Dark,1850,Urgent,Jet Dyeing,13,96,4,1,5,1
+TT-PO-0778,2026-05-15,Cotton-Poly Blend,Medium,2330,High,Soft Flow,13.3,60,4,0,9,0
+TT-PO-0779,2026-02-16,Polyester,Dark,790,Urgent,Jet Dyeing,9,63,1,0,11,0
+TT-PO-0780,2026-02-03,Cotton,Light,890,Normal,Winch,10.6,84,3,1,6,1
+TT-PO-0781,2026-05-23,Cotton,Dark,1500,High,Soft Flow,12.4,98,7,0,8,1
+TT-PO-0782,2026-01-22,Cotton,Dark,940,Normal,Soft Flow,11.5,92,5,0,11,0
+TT-PO-0783,2026-04-24,Nylon,Dark,1690,Normal,Soft Flow,13.6,58,3,0,6,0
+TT-PO-0784,2026-04-21,Polyester,Medium,1750,High,Jet Dyeing,11.9,66,3,0,6,1
+TT-PO-0785,2026-05-29,Cotton-Poly Blend,Medium,2140,Normal,Jet Dyeing,13.3,74,5,0,4,0
+TT-PO-0786,2026-03-24,Nylon,White,700,Normal,Jet Dyeing,9.4,82,4,0,14,0
+TT-PO-0787,2026-02-10,Cotton,Light,1070,High,Soft Flow,7.4,84,5,0,13,1
+TT-PO-0788,2026-02-12,Polyester,Medium,1200,Normal,Jigger,10.8,97,5,1,9,1
+TT-PO-0789,2026-06-26,Cotton,Medium,1790,Urgent,Jet Dyeing,10.2,58,4,0,4,0
+TT-PO-0790,2026-01-14,Cotton,White,2340,Normal,Soft Flow,12.5,82,6,1,9,0
+TT-PO-0791,2026-04-05,Cotton,Medium,1620,Normal,Jigger,10,93,4,3,6,1
+TT-PO-0792,2026-04-18,Viscose,Dark,1140,Urgent,Soft Flow,13.4,90,5,0,12,0
+TT-PO-0793,2026-01-10,Cotton,Medium,650,Normal,Jet Dyeing,8.1,79,4,0,3,0
+TT-PO-0794,2026-05-02,Polyester,Dark,1490,Normal,Soft Flow,14.8,88,6,0,13,0
+TT-PO-0795,2026-03-27,Cotton,White,1880,Normal,Jet Dyeing,13.6,64,2,0,4,0
+TT-PO-0796,2026-06-12,Polyester,Medium,1710,Normal,Soft Flow,11,80,4,0,3,0
+TT-PO-0797,2026-03-26,Polyester,Light,720,Normal,Jet Dyeing,6.2,92,6,0,14,1
+TT-PO-0798,2026-01-09,Polyester,Light,910,Normal,Soft Flow,9.2,77,2,1,3,0
+TT-PO-0799,2026-05-07,Cotton-Poly Blend,Medium,970,High,Jet Dyeing,8.8,97,7,0,8,0
+TT-PO-0800,2026-04-03,Cotton-Poly Blend,Light,1330,Urgent,Jet Dyeing,11.8,81,4,1,12,0
